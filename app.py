@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import math
+import os
 from pathlib import Path
 
 import numpy as np
@@ -9,6 +10,34 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 from plotly.subplots import make_subplots
+
+# PostgreSQL support (optional)
+try:
+    from sqlalchemy import create_engine, text
+    HAS_DB = True
+except ImportError:
+    HAS_DB = False
+
+DB_ENGINE = None
+if HAS_DB and os.getenv("DATABASE_URL") or (os.getenv("PGHOST") and os.getenv("PGUSER")):
+    try:
+        if os.getenv("DATABASE_URL"):
+            DB_ENGINE = create_engine(os.getenv("DATABASE_URL"))
+        else:
+            # Railway auto-injects: PGHOST, PGPORT, PGUSER, PGPASSWORD, PGDATABASE
+            pghost = os.getenv("PGHOST")
+            pgport = os.getenv("PGPORT", "5432")
+            pguser = os.getenv("PGUSER")
+            pgpass = os.getenv("PGPASSWORD")
+            pgdb = os.getenv("PGDATABASE")
+            DB_ENGINE = create_engine(
+                f"postgresql://{pguser}:{pgpass}@{pghost}:{pgport}/{pgdb}"
+            )
+        # Test connection
+        with DB_ENGINE.connect() as conn:
+            conn.execute(text("SELECT 1"))
+    except Exception:
+        DB_ENGINE = None
 
 st.set_page_config(
     page_title="Autlán — Estrategia Financiera & Riesgos",
@@ -204,10 +233,26 @@ def _latest_value(df: pd.DataFrame, value_col: str, variable: str | None = None,
 
 
 def _latest_rate_from_database(column: str) -> float | None:
-    """Return the latest non-zero daily rate from the consolidated Excel database.
+    """Return the latest non-zero daily rate from PostgreSQL or Excel database.
 
     Values are returned as decimals, e.g. 0.0355 for 3.55%.
     """
+    # Try PostgreSQL first if connected
+    if DB_ENGINE is not None:
+        try:
+            query = f"""
+            SELECT "{column}" FROM precios_y_tasas
+            WHERE "Fecha" IS NOT NULL AND "{column}" IS NOT NULL AND "{column}" != 0
+            ORDER BY "Fecha" DESC LIMIT 1
+            """
+            df = pd.read_sql(query, DB_ENGINE)
+            if not df.empty:
+                value = float(df[column].iloc[0])
+                return value / 100 if value > 1 else value
+        except Exception:
+            pass  # Fall through to Excel
+    
+    # Fall back to Excel file
     if not DATABASE_FILE.exists():
         return None
     try:
