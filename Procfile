@@ -1,1 +1,1 @@
-web: streamlit run app.py
+web: bash start.sh
