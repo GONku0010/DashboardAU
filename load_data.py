@@ -37,10 +37,24 @@ def get_db_url():
 
 def load_excel_to_db():
     """Load all sheets from Excel to PostgreSQL."""
-    excel_file = Path("../Bases de datos/Mineria autlán historicos.xlsx")
+    # Try multiple paths
+    possible_paths = [
+        Path("../Bases de datos (1)/Mineria autlán historicos (1).xlsx"),
+        Path("../Bases de datos (1)/Mineria autlán historicos.xlsx"),
+        Path("../Bases de datos/Mineria autlán historicos.xlsx"),
+        Path("/Users/gonzalomoal/Desktop/PYT/Bases de datos (1)/Mineria autlán historicos (1).xlsx"),
+    ]
     
-    if not excel_file.exists():
-        print(f"Error: {excel_file} not found")
+    excel_file = None
+    for path in possible_paths:
+        if path.exists():
+            excel_file = path
+            break
+    
+    if excel_file is None:
+        print(f"Error: Excel file not found in any of these locations:")
+        for p in possible_paths:
+            print(f"  - {p}")
         sys.exit(1)
     
     db_url = get_db_url()
