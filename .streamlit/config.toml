@@ -8,6 +8,16 @@ font = "sans serif"
 
 [server]
 headless = true
+port = 8501
+address = 0.0.0.0
+enableCORS = false
+enableXsrfProtection = false
+
+[client]
+toolbarMode = "minimal"
+
+[logger]
+level = "error"
 enableCORS = false
 enableXsrfProtection = true
 fileWatcherType = "auto"
