@@ -1,0 +1,828 @@
+date,value,variable,label,category,unit,frequency,source_date_type,base100,pct_change
+2015-03-31,60944000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,100.0,
+2015-06-30,53807000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,88.28924914675767,-11.710750853242324
+2015-09-30,57669000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,94.62621422945655,7.17750478562269
+2015-12-31,44266000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,72.63389341034392,-23.241256134144862
+2016-03-31,42093000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,69.0683250196902,-4.908959472281205
+2016-06-30,51370000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,84.29049619322657,22.039293944361305
+2016-09-30,41577000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,68.22164610133893,-19.063655830251115
+2016-12-31,44878000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,73.63809398792334,7.939485773384325
+2017-03-31,49047000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,80.47880021002888,9.28962966264093
+2017-06-30,58583000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,96.12595169335783,19.44257548881685
+2017-09-30,57880000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,94.97243370963507,-1.2000068279193643
+2017-12-31,55684000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,91.36912575479128,-3.7940566689702804
+2018-03-31,58543000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,96.06031766867945,5.13432943035701
+2018-06-30,70454000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,115.604489367288,20.345728780554474
+2018-09-30,88181000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,144.69184825413495,25.161098021404026
+2018-12-31,92539000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,151.8426752428459,4.942107710277721
+2019-03-31,93622000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,153.6197164610134,1.1703173796993704
+2019-06-30,78493000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,128.7952874770281,-16.159663326995787
+2019-09-30,88621000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,145.41382252559728,12.903061419489624
+2019-12-31,81168000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,133.18456287739565,-8.409970548741263
+2020-03-31,84358000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,138.4188763454975,3.930120244431312
+2020-06-30,62870000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,103.16027828826464,-25.4723914744304
+2020-09-30,63453000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,104.11689419795222,0.9273103228885082
+2020-12-31,73203000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,120.11518771331058,15.365703749231718
+2021-03-31,78226000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,128.35718036229983,6.861740639044855
+2021-06-30,75661000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,124.14839852979784,-3.2789609592718483
+2021-09-30,81936000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,134.44473615122078,8.293572646409642
+2021-12-31,119938000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,196.80034129692834,46.380101542667454
+2022-03-31,101677000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,166.83676818062483,-15.225366439326981
+2022-06-30,123540000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,202.71068521921762,21.502404673623342
+2022-09-30,108525000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,178.07331320556577,-12.15395823215153
+2022-12-31,130726000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,214.50183775269102,20.457037548951853
+2023-03-31,95389000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,156.51909950118142,-27.03134801034224
+2023-06-30,73920000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,121.29167760567078,-22.50678799442284
+2023-09-30,74940000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,122.9653452349698,1.379870129870131
+2023-12-31,71678000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,117.61289052244683,-4.352815585801972
+2024-03-31,64061000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,105.11453137306378,-10.626691592957393
+2024-06-30,59665000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,97.90135206090838,-6.862209456611668
+2024-09-30,70976000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,116.46101338934103,18.95751277968658
+2024-12-31,57511000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,94.3669598319769,-18.97120153291253
+2025-03-31,67449000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,110.6737332633237,17.280172488741275
+2025-06-30,70414000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,115.53885534260961,4.395913949799102
+2025-09-30,63394000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,104.02008401155159,-9.969608316527967
+2025-12-31,70052000.0,cost_of_sales_abs,Cost of sales,Financial,USD,Quarterly,period_end,114.94486741927015,10.502571221251223
+2015-03-31,8.24224293330265,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,100.0,
+2015-06-30,6.65165450584158,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,80.70199531447534,-19.29800468552466
+2015-09-30,6.6152904842375095,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,80.26080446511149,-0.5466913768917947
+2015-12-31,6.010252110448381,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,72.9201038974968,-9.146059046549437
+2016-03-31,9.50179240671337,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,115.28163490937074,58.09307550003109
+2016-06-30,6.09774127310061,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,73.9815766466041,-35.8253578683499
+2016-09-30,6.988046762117429,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,84.7833146713298,14.60057829846415
+2016-12-31,5.35367462823763,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,64.95409892137725,-23.388111006065635
+2017-03-31,15.74419408267102,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,191.01832122730642,194.08201237387925
+2017-06-30,9.971957000734449,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,120.98596318294521,-36.66263926643176
+2017-09-30,5.84515264204791,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,70.91701481438582,-41.38409700706285
+2017-12-31,5.70869738100611,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,69.26145500929377,-2.334502953099804
+2018-03-31,17.2374812526582,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,209.13580674758362,201.95121762821904
+2018-06-30,5.72247763112363,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,69.42864554503788,-66.8021241198382
+2018-09-30,13.2424143218981,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,160.66517850853845,131.4105039026234
+2018-12-31,1.0753794219134198,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,13.04716969173969,-91.87927974632892
+2019-03-31,6.927501096123589,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,84.04873712388569,544.1913388855354
+2019-06-30,6.63435539003112,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,80.49211171906998,-4.231622659092826
+2019-09-30,2.09117524048515,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,25.371434176439884,-68.47960174657841
+2019-12-31,18.777187046882553,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,227.81647178844523,797.9250845819249
+2020-03-31,5.92091477833986,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,71.83620801100751,-68.46750919849377
+2020-06-30,6.06164952860433,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,73.54368923187562,2.3769088989308296
+2020-09-30,5.401454334648189,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,65.53379193451943,-10.891345513143646
+2020-12-31,10.19744821229321,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,123.72176232625446,88.79078819348005
+2021-03-31,4.72211934380514,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,57.291678758041606,-53.69312748151505
+2021-06-30,9.3609780307711,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,113.57318762042574,98.23679473606681
+2021-09-30,3.9816577123537296,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,48.307939289994785,-57.46536634029741
+2021-12-31,2.6185285096633497,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,31.769610903886697,-34.235218121865515
+2022-03-31,6.96988611755114,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,84.56297847506323,166.17568194616376
+2022-06-30,1.2407907836723,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,15.054042858393615,-82.19783275155936
+2022-12-31,5.46194372498234,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,66.26768671077922,340.1986053456108
+2023-03-31,12.685421553746378,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,153.90739700829656,132.25104820697135
+2023-06-30,22.54880251733582,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,273.57604841065466,77.75367118703669
+2023-09-30,5.8974744959992496,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,71.55181597682105,-73.84573086989789
+2023-12-31,28.954076681202366,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,351.2888047040434,390.9572173791398
+2024-03-31,17.06429491053364,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,207.0346027000203,-41.06427534050098
+2024-06-30,5.17099525546444,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,62.73771954198434,-69.69698846289612
+2024-09-30,7.8589516192006,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,95.34967220447523,51.98141229960842
+2024-12-31,10.88494978769293,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,132.06295756841217,38.50384014452209
+2025-03-31,9.55138204280277,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,115.88328711121294,-12.251482743613195
+2025-06-30,17.38052926171738,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,210.87135385796057,81.96873692026685
+2025-09-30,14.064652752972389,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,170.6410847967655,-19.078110101333866
+2025-12-31,11.57857283078131,financial_expense_to_sales_pct,Financial expense / sales,Margins,%,Quarterly,period_end,140.47842225079623,-17.676084620472963
+2015-03-31,6447000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,100.0,
+2015-06-30,4549000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,70.55995036451063,-29.440049635489373
+2015-09-30,4541000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,70.43586164107337,-0.1758628269949436
+2015-12-31,3154000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,48.92197921513882,-30.543933054393303
+2016-03-31,4665000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,72.35923685435085,47.90741915028536
+2016-06-30,3712000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,57.57716767488754,-20.42872454448017
+2016-09-30,3724000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,57.763300760043435,0.3232758620689724
+2016-12-31,3611000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,56.01054754149216,-3.034371643394196
+2017-03-31,13213000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,204.94803784706065,265.90972029908613
+2017-06-30,8961000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,138.9948813401582,-32.18042836600318
+2017-09-30,5407000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,83.86846595315652,-39.660752148197744
+2017-12-31,5312000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,82.39491236233907,-1.756981690401327
+2018-03-31,15401000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,238.8863037071506,189.92846385542168
+2018-06-30,5788000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,89.7781914068559,-62.41802480358418
+2018-09-30,15371000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,238.4209709942609,165.56668970283343
+2018-12-31,1150000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,17.837753994105785,-92.51837876520722
+2019-03-31,8058000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,124.98836668217777,600.6956521739131
+2019-06-30,6502000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,100.85310997363115,-19.310002482005462
+2019-09-30,2400000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,37.22661703117729,-63.08828052906799
+2019-12-31,17094000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,265.14657980456025,612.25
+2020-03-31,5934000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,92.04281060958586,-65.28606528606528
+2020-06-30,5105000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,79.18411664340003,-13.970340411189753
+2020-09-30,4286000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,66.48053358151078,-16.043095004897157
+2020-12-31,8408000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,130.4172483325578,96.17358842743818
+2021-03-31,4335000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,67.24057701256399,-48.441960038058994
+2021-06-30,9242000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,143.35349775089188,113.19492502883506
+2021-09-30,4958000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,76.90398635024042,-46.35360311620861
+2021-12-31,3543000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,54.955793392275474,-28.53973376361436
+2022-03-31,10943000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,169.7378625717388,208.86254586508608
+2022-06-30,2181000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,33.829688227082364,-80.06945079045965
+2022-12-31,7423000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,115.13882425934543,240.34846400733608
+2023-03-31,14709000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,228.15262912982783,98.15438501953389
+2023-06-30,19348000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,300.1085776330076,31.53851383506696
+2023-09-30,5093000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,78.99798355824414,-73.67686582592516
+2023-12-31,22376000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,347.0761594540096,339.3481248772826
+2024-03-31,12989000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,201.47355359081743,-41.95119771183411
+2024-06-30,3771000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,58.49232201023732,-70.96774193548387
+2024-09-30,7045000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,109.275632076935,86.82047202333598
+2024-12-31,8075000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,125.25205521948193,14.62029808374734
+2025-03-31,7654000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,118.72188614859624,-5.213622291021669
+2025-06-30,14377000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,223.00294710718163,87.83642539848447
+2025-09-30,11025000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,171.0097719869707,-23.31501704110732
+2025-12-31,9437000.0,financial_expenses,Financial expenses,Financial,USD,Quarterly,period_end,146.37816038467503,-14.403628117913836
+2015-02-28,1226.658,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,100.0,
+2015-03-31,1179.3454545454545,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,96.14297176111471,-3.857028238885285
+2015-04-30,1199.6077272727273,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,97.79479914309672,1.7180947829304571
+2015-05-31,1198.614761904762,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,97.71385030748277,-0.08277417237240181
+2015-06-30,1181.405,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,96.31087067462977,-1.435804267704277
+2015-07-31,1130.615652173913,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,92.17040545725975,-4.2990632193097955
+2015-08-31,1119.2185714285715,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,91.2412890494801,-1.0080420099816911
+2015-09-30,1124.5013636363635,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,91.67195450046904,0.4720071970436557
+2015-10-31,1159.6831818181818,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,94.54005776819471,3.1286594502694776
+2015-11-30,1085.7128571428573,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,88.50982565171851,-6.378494215924723
+2015-12-31,1069.4847826086957,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,87.18687544602454,-1.4946930422162552
+2016-01-31,1095.8214285714287,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,89.33389979696287,2.462554530088079
+2016-02-29,1200.8614285714286,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,97.89700377541489,9.585503373203409
+2016-03-31,1243.7713043478261,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,101.39511618950239,3.5732578926649383
+2016-04-30,1243.017142857143,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,101.33363519882013,-0.06063506112794492
+2016-05-31,1257.094090909091,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,102.48122059360401,1.1324822133660373
+2016-06-30,1276.3381818181817,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,104.05004343657171,1.5308393419600108
+2016-07-31,1337.519523809524,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,109.03768807683348,4.793505582054092
+2016-08-31,1341.1721739130435,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,109.33546056953476,0.27309134846242866
+2016-09-30,1326.679090909091,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,108.15395089006805,-1.0806280719101946
+2016-10-31,1266.0785714285714,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,103.21365624555267,-4.567835574991519
+2016-11-30,1235.2927272727272,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,100.70392295755846,-2.43159033337933
+2016-12-31,1150.3395454545455,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,93.77834290034758,-6.877170078200079
+2017-01-31,1192.250909090909,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,97.19505429312075,3.643390666866342
+2017-02-28,1234.7125,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,100.65662148699965,3.561464334841058
+2017-03-31,1231.2378260869566,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,100.37335802537926,-0.28141562615130455
+2017-04-30,1270.6645,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,103.58751175959398,3.202198070729101
+2017-05-31,1246.8969565217392,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,101.64992659092749,-1.8704814274941084
+2017-06-30,1261.16,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,102.81268291569452,1.1438830934392685
+2017-07-31,1236.1419047619047,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,100.77314987240982,-1.9837368167477054
+2017-08-31,1284.1752173913044,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,104.68893672003969,3.88574422114194
+2017-09-30,1316.2771428571427,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,107.30596000328885,2.499808829129302
+2017-10-31,1280.7050000000002,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,104.40603656438878,-2.7024812403814047
+2017-11-30,1282.3222727272728,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,104.5378803812695,0.12627987922844142
+2017-12-31,1266.4938095238094,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,103.24750741639556,-1.2343592199953735
+2018-01-31,1330.5217391304348,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,108.46721246919964,5.055526456201087
+2018-02-28,1332.0095,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,108.5884981796067,0.11181785504215114
+2018-03-31,1325.5777272727273,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,108.06416517666109,-0.4828623765275375
+2018-04-30,1334.9866666666667,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,108.8312036987218,0.7097991464670717
+2018-05-31,1303.7052173913044,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,106.28106753400739,-2.343203123778692
+2018-06-30,1281.6661904761906,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,104.4843950372631,-1.6904915790099784
+2018-07-31,1238.2209090909091,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,100.94263511842007,-3.3897501321416557
+2018-08-31,1201.7560869565218,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,97.96993839819427,-2.9449367125579773
+2018-09-30,1197.916,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,97.65688561930057,-0.31953963022953724
+2018-10-31,1215.8465217391306,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,99.11862326248479,1.4968096042736523
+2018-11-30,1220.4004545454545,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,99.48987040768125,0.37454832702157326
+2018-12-31,1253.5385714285715,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,102.19136641415713,2.7153477991336494
+2019-01-31,1291.5117391304348,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,105.28702695701939,3.0292779629898403
+2019-02-28,1320.335,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,107.63676591193307,2.2317459451798527
+2019-03-31,1300.3728571428571,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,106.00940581179572,-1.5118998479282109
+2019-04-30,1285.9654545454546,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,104.83488099742999,-1.1079439653222334
+2019-05-31,1284.1260869565217,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,104.68493149325417,-0.14303398138972856
+2019-06-30,1360.5905,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,110.91848746757451,5.954587623455643
+2019-07-31,1414.285652173913,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,115.29584058261659,3.946459436098726
+2019-08-31,1502.8436363636363,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,122.51529247464545,6.261675924775156
+2019-09-30,1510.7480952380952,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,123.15968226173027,0.5259668193814848
+2019-10-31,1495.0678260869565,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,121.88139041908639,-1.0379142095603533
+2019-11-30,1470.177619047619,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,119.8522831178388,-1.6648212612856983
+2019-12-31,1481.7322727272729,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,120.7942452360212,0.7859358984895426
+2020-01-31,1559.732608695652,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,127.15301320299972,5.264131544142714
+2020-02-29,1597.042,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,130.19456115722556,2.3920376541687105
+2020-03-31,1592.584090909091,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,129.83114208761458,-0.2791353696965371
+2020-04-30,1683.5,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,137.24281747642783,5.708703836103979
+2020-05-31,1717.4690476190476,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,140.01205288018727,2.0177634463348637
+2020-06-30,1736.5859090909091,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,141.57050368488277,1.1130833186405065
+2020-07-31,1843.843913043478,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,150.31442448045652,6.176371891023691
+2020-08-31,1971.557619047619,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,160.725941464338,6.926492264376916
+2020-09-30,1923.3977272727273,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,156.79983559172382,-2.4427331623285697
+2020-10-31,1902.5859090909091,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,155.10320799203276,-1.0820340425029107
+2020-11-30,1866.1280952380953,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,152.13108260314573,-1.9162243175780747
+2020-12-31,1860.1843478260869,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,151.6465345537295,-0.31850693568010735
+2021-01-31,1867.3133333333335,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,152.2277059566182,0.3832408070510773
+2021-02-28,1809.2745,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,147.49624589738949,-3.1081464635465683
+2021-03-31,1720.9460869565219,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,140.29550917668348,-4.8819796577842745
+2021-04-30,1759.2813636363637,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,143.42068968175025,2.2275698797536103
+2021-05-31,1852.5280952380951,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,151.02237911774066,5.30027393736463
+2021-06-30,1835.0018181818182,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,149.59359643697087,-0.9460734820339933
+2021-07-31,1804.9431818181818,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,147.1431468117586,-1.6380712032982858
+2021-08-31,1784.4504545454547,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,145.4725322417051,-1.1353668901690317
+2021-09-30,1780.0786363636364,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,145.1161315023125,-0.24499521242981048
+2021-10-31,1776.722380952381,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,144.84252179110894,-0.18854534528383038
+2021-11-30,1819.101818181818,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,148.2973916268282,2.3852593789424947
+2021-12-31,1792.3495652173913,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,146.11648603093866,-1.4706297743776409
+2022-01-31,1815.9519047619046,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,148.04060339246186,1.3168379652353623
+2022-02-28,1857.8015,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,151.452279282408,2.304554164036765
+2022-03-31,1950.0260869565216,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,158.97064112055043,4.96417873257835
+2022-04-30,1937.5266666666666,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,157.95165944107214,-0.6409873372188235
+2022-05-31,1849.8331818181819,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,150.80268353674634,-4.526053052955048
+2022-06-30,1837.5727272727272,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,149.80318289798194,-0.6627870375535139
+2022-07-31,1737.3804761904762,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,141.6352786343444,-5.4524237106497235
+2022-08-31,1764.1326086956524,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,143.81617441011696,1.5397970031201913
+2022-09-30,1683.2081818181819,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,137.21902778265678,-4.587207700746698
+2022-10-31,1666.6266666666668,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,135.8672642795846,-0.9851137447302483
+2022-11-30,1727.8986363636361,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,140.8622971002216,3.676406415572142
+2022-12-31,1797.557272727273,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,146.5410304035251,4.0314075662582605
+2023-01-31,1896.0595454545453,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,154.5711637191903,5.479784940472232
+2023-02-28,1853.4189999999999,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,151.09500773646772,-2.2489032877036075
+2023-03-31,1913.6482608695653,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,156.00503651951607,3.2496300550261648
+2023-04-30,1999.6685000000002,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,163.01760555916977,4.495091438138532
+2023-05-31,1989.826956521739,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,162.21530015063198,-0.4921587492257462
+2023-06-30,1944.7263636363639,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,158.53859540608417,-2.26655854357366
+2023-07-31,1950.27,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,158.99052547653872,0.2850599687078903
+2023-08-31,1919.3021739130434,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,156.46595660021322,-1.5878737860376524
+2023-09-30,1915.4347619047617,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,156.15067621983974,-0.20150094450197553
+2023-10-31,1913.9845454545457,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,156.03245121741722,-0.07571212964589957
+2023-11-30,1985.7777272727274,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,161.8851976078685,3.750980225450662
+2023-12-31,2034.7042857142858,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,165.8738039220619,2.4638486860638853
+2024-01-31,2034.0060869565218,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,165.8168851429267,-0.034314507649391146
+2024-02-29,2024.4461904761906,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,165.0375402497021,-0.4700033368452483
+2024-03-31,2162.3461904761903,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,176.27946750244897,6.811739459845212
+2024-04-30,2333.5504545454546,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,190.23643546493437,7.917523328286391
+2024-05-31,2350.5965217391304,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,191.62607032596947,0.7304777644928206
+2024-06-30,2328.2625,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,189.80534916822782,-0.9501427204787305
+2024-07-31,2394.7278260869566,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,195.22375642493316,2.854717888853031
+2024-08-31,2468.3286363636366,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,201.22386487216787,3.073452000469956
+2024-09-30,2569.0490476190475,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,209.43482597586674,4.080510584027941
+2024-10-31,2689.128695652174,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,219.22399688031823,4.674089353973776
+2024-11-30,2652.1995238095237,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,216.21344529685734,-1.373276478078489
+2024-12-31,2640.6054545454544,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,215.2682699289822,-0.4371492099288221
+2025-01-31,2707.467391304348,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,220.71900980585855,2.5320684180137443
+2025-02-28,2894.38,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,235.95655838872776,6.90359593234493
+2025-03-31,2986.2561904761906,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,243.4465181392198,3.174296066037985
+2025-04-30,3222.011818181818,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,262.66586270841736,7.894688622412982
+2025-05-31,3288.009545454546,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,268.0461502272472,2.048339081200834
+2025-06-30,3351.8585714285714,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,273.25127064174137,1.9418747145151238
+2025-07-31,3341.649130434783,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,272.41897337601705,-0.30459044664994384
+2025-08-31,3367.2561904761906,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,274.5065201935821,0.7663000824409183
+2025-09-30,3666.5236363636363,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,298.9034952173822,8.887575787487801
+2025-10-31,4055.168695652174,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,330.5867402040482,10.599824188614427
+2025-11-30,4085.2309999999998,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,333.0374888518234,0.7413330148276609
+2025-12-31,4314.404782608695,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,351.7202661710677,5.609812091622124
+2026-01-31,4724.119090909091,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,385.1211251146686,9.496427176975807
+2026-02-28,5016.551,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,408.9608513538412,6.190189185824169
+2026-03-31,4862.759545454545,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,396.42341593618966,-3.065681073419868
+2026-04-30,4719.971818181818,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,384.7830298405765,-2.9363517965061203
+2026-05-31,4658.4400000000005,gold_usd_oz,Gold price,Commodities,USD/oz,Monthly,month_end,379.76681356987854,-1.303647999439117
+2015-03-31,22.08542681445684,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,100.0,
+2015-06-30,21.32214244980918,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,96.54394560240954,-3.456054397590469
+2015-09-30,15.988287395839402,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,72.39292919335239,-25.015568048686
+2015-12-31,15.646854812584559,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,70.84696593838217,-2.135516924368608
+2016-03-31,14.263891152028679,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,64.58508260610891,-8.838604800266825
+2016-06-30,15.61396303901437,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,70.69803617647845,9.464962068177861
+2016-09-30,21.98119757557561,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,99.52806328011282,40.77910598770811
+2016-12-31,33.46380228024136,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,151.51983505402023,52.2383035100173
+2017-03-31,41.557141665574385,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,188.16544509056808,24.185355021989597
+2017-06-30,34.80781642963655,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,157.60535996004293,-16.241071848136567
+2017-09-30,37.42973276831272,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,169.47706323615935,7.532550466003318
+2017-12-31,40.15754801130562,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,181.82826326462026,7.287829864770545
+2018-03-31,34.47608174960266,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,156.1033075758131,-14.14794115443364
+2018-06-30,30.34356616738345,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,137.39180330226145,-11.986616148068629
+2018-09-30,24.03035994279511,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,108.80640951464491,-20.805749033462185
+2018-12-31,13.465620587437698,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,60.97061515072587,-43.96413279079899
+2019-03-31,19.51271933218133,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,88.35110815883598,44.907686990565225
+2019-06-30,19.909188306719038,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,90.146269184559,2.0318489073116064
+2019-09-30,22.78248292206887,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,103.15618128401186,14.432002807367784
+2019-12-31,10.83966782371809,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,49.080635456058204,-52.42104268969756
+2020-03-31,15.828020075632852,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,71.66725917776708,46.019419903254175
+2020-06-30,25.34850032059654,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,114.77478127795897,60.14953354538901
+2020-09-30,20.03301868958651,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,90.70695738817757,-20.9696098932173
+2020-12-31,11.2174355988939,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,50.791119832699394,-44.00526564314091
+2021-03-31,14.78834883771595,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,66.95976021634178,31.833596969116208
+2021-06-30,23.3649687528487,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,105.79360294524301,57.995791208678305
+2021-09-30,34.199050762521985,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,154.84894654666903,46.3689128980854
+2021-12-31,11.35730386903662,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,51.424425547448664,-66.79058741161656
+2022-03-31,35.239229573768824,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,159.558743735492,210.27812569003652
+2022-06-30,29.716967714407623,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,134.55464530554272,-15.670779203049978
+2022-09-30,30.195087123477993,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,136.7195091005109,1.608910483954129
+2022-12-31,3.8100423828584797,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,17.251386694344863,-87.38191293412098
+2023-03-31,17.73406237063612,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,80.29757595188347,365.4557768286861
+2023-06-30,13.851174173999182,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,62.71635268978536,-21.89508593962196
+2023-09-30,13.222709850739351,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,59.87074627004234,-4.537263883660902
+2023-12-31,7.25016498233718,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,32.82782371944614,-45.16884160524943
+2024-03-31,15.83988018602695,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,71.72096024722676,118.47613433095651
+2024-06-30,18.18418670981542,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,82.33568163560363,14.80002687050932
+2024-09-30,20.823711834722168,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,94.28711525326389,14.515497267095201
+2024-12-31,22.47624182786277,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,101.76956060975965,7.935808977077352
+2025-03-31,15.830785549385409,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,71.67978089073097,-29.566581145426596
+2025-06-30,14.87566339051487,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,67.35510939176167,-6.033321314921225
+2025-09-30,19.12792774404245,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,86.60882085159227,28.58537627464022
+2025-12-31,14.05084413034943,gross_margin_pct,Gross margin,Margins,%,Quarterly,period_end,63.620432823838044,-26.54277913233083
+2021-05-31,5.020735031022728,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,100.0,
+2021-06-30,5.018958503795455,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,99.96461619232451,-0.035383807675493095
+2021-07-31,5.032461543727273,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,100.23356167238637,0.2690406768975473
+2021-08-31,5.105286297238636,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,101.68404159338169,1.4471000499176379
+2021-09-30,5.350101264568182,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,106.56011981334059,4.795322986332073
+2021-10-31,5.478020068904762,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,109.10793011494344,2.3909604325387246
+2021-11-30,5.499094122704546,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,109.52767052485493,0.3847020188810113
+2021-12-31,5.328136459543478,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,106.12263795283641,-3.108833188637772
+2022-01-31,5.271168396166667,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,104.98798211011994,-1.0691930247914816
+2022-02-28,5.37578943715,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,107.07176148379509,1.9847789544992667
+2022-03-31,5.423834928956522,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,108.02870287802627,0.8937383498411888
+2022-04-30,5.209639183857142,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,103.76248002866492,-3.9491567849132214
+2022-05-31,5.001925690318182,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,99.62536679214648,-3.9870994172224394
+2022-06-30,5.002952485113636,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,99.64581787727863,0.0205279897988353
+2022-07-31,4.962160632309524,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,98.8333501299854,-0.8153555910332733
+2022-08-31,4.668709635847826,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,92.98856854624343,-5.913774627749568
+2022-09-30,4.525612073806818,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,90.13843681937837,-3.065034521364518
+2022-10-31,4.366726131619048,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,86.97384157174976,-3.510816649693971
+2022-11-30,4.357463778409091,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,86.78935955561616,-0.2121120704797419
+2022-12-31,4.472719631147727,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,89.08495675456169,2.6450214757887336
+2023-01-31,4.722803698409091,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,94.06598175819393,5.591319999576894
+2023-02-28,4.9188422311125,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,97.97056010164569,4.150893097027208
+2023-03-31,4.753399629543479,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,94.67537323066433,-3.363445985776281
+2023-04-30,4.6639917561,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,92.89460063679044,-1.880924820370422
+2023-05-31,4.578720368695652,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,91.19621609991562,-1.8282919838531364
+2023-06-30,4.4303417545,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,88.2408995321455,-3.2406131461992227
+2023-07-31,4.281151393833333,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,85.26941508325842,-3.3674684467655425
+2023-08-31,4.2461403683695655,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,84.57208640035768,-0.8177946127810087
+2023-09-30,4.272497029011904,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,85.09704261651892,0.6207204273950939
+2023-10-31,4.210479368284091,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.86181191136097,-1.4515553856840557
+2023-11-30,4.188448201090909,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.42300828884251,-0.5232460550485873
+2023-12-31,4.097655830357143,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,81.61466010530428,-2.167685175385936
+2024-01-31,4.088987563304348,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,81.44201074222829,-0.2115420965464243
+2024-02-29,4.09130029775,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,81.48807440484663,0.05656007532053309
+2024-03-31,4.19035879247619,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.46106230630161,2.421198335909658
+2024-04-30,4.373909778113636,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,87.11692114974383,4.380316691902664
+2024-05-31,5.513605048760869,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,109.81669047844062,26.056670769710234
+2024-06-30,5.63192175785,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,112.173251985034,2.1459046856415975
+2024-07-31,4.835211930967391,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,96.30486176010079,-14.146322714304793
+2024-08-31,4.624335712306818,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,92.10475525462728,-4.361261133353933
+2024-09-30,4.344532204392857,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,86.5317961921578,-6.050674633533104
+2024-10-31,4.277148960902174,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,85.18969701595496,-1.550989619148191
+2024-11-30,4.078376647309524,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,81.23066885843517,-4.647308649047465
+2024-12-31,3.9918068053181814,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,79.50642247904183,-2.1226544156595195
+2025-01-31,3.978564312978261,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,79.2426664302144,-0.3317418148162332
+2025-02-28,4.138290019625,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,82.42398760450075,4.014656898361713
+2025-03-31,4.172715480476191,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.10965336137656,0.8318764680081525
+2025-04-30,4.251065206284091,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,84.67017637889856,1.8776675806077003
+2025-05-31,4.192541554575,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.50453725738592,-1.3766820518908651
+2025-06-30,4.100441505692857,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,81.67014352194552,-2.196759356663769
+2025-07-31,4.1095078892847825,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,81.85072233233691,0.22110749731065749
+2025-08-31,4.143405547630953,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,82.52587563432795,0.8248593082046618
+2025-09-30,4.174445188029545,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.14410464276597,0.7491335337990179
+2025-10-31,4.177739625315217,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.20972127589471,0.07891916499751517
+2025-11-30,4.1961694053875,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,83.57679462189697,0.44114238141137463
+2025-12-31,4.277323717632609,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,85.19317771607867,1.9340094358658355
+2026-01-31,4.469731255125,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,89.02543606676873,4.498316007722769
+2026-02-28,4.569518566255001,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,91.01294009782042,2.232512547943122
+2026-03-31,4.981906846284091,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,99.22664341976383,9.024764295181932
+2026-04-30,5.164676402443181,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,102.86693821783166,3.6686666731919004
+2026-05-31,4.963971147363636,manganese_ore_usd_dmtu,Manganese price,Commodities,USD/dmtu,Monthly,month_end,98.86941088688505,-3.8861148199836992
+2015-03-31,-0.35029852081974,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,100.0,
+2015-06-30,0.74427173960724,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-212.46785109613256,-312.46785109613256
+2015-09-30,-1.6141250509877,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,460.7855743182862,-316.87308077013523
+2015-12-31,7.115498218267049,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-2031.2669895425024,-540.8269491829645
+2016-03-31,-8.029167345608599,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,2292.0928489276507,-212.8405502933858
+2016-06-30,-2.22587268993839,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,635.4216639937799,-72.2776647424619
+2016-09-30,2.77720440599726,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-792.8107716522105,-224.7692385351172
+2016-12-31,14.384201396610772,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-4106.269522049376,417.9381598829626
+2017-03-31,16.97031802962239,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-4844.530313719235,17.978868354978417
+2017-06-30,12.21873539427121,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-3488.0922036661536,-27.999372946677237
+2017-09-30,17.11277350168641,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-4885.197191709658,40.05355668565982
+2017-12-31,22.587613244349868,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-6448.104088904566,31.992708500021514
+2018-03-31,3.8311731918608505,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-1093.6880872050078,-83.03860992121781
+2018-06-30,24.85540560581343,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-7095.492595186768,548.7674756812766
+2018-09-30,1.62654858107758,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-464.33212942814134,-93.45595639486508
+2018-12-31,3.2719587802392,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-934.0487001150988,101.1596098821435
+2019-03-31,3.2780543161478297,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-935.7887976451613,0.1862962316470318
+2019-06-30,-2.41620325493597,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,689.7554832038023,-173.70845696587924
+2019-09-30,5.5999930294158595,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-1598.6345064521577,-331.7682925877964
+2019-12-31,-22.042928072410913,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,6292.612375532689,-493.6242055413814
+2020-03-31,22.0283174185051,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-6288.441460431014,-199.933717272688
+2020-06-30,-8.4578118691966,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,2414.4583452434567,-138.39517884417052
+2020-09-30,-13.61831907144387,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,3887.632479741962,61.01468420031744
+2020-12-31,-23.571289962644933,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,6728.91507148969,73.08516446843542
+2021-03-31,-2.75266334066795,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,785.8050140281472,-88.32196564112407
+2021-06-30,-4.27837818675363,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,1221.3520561667572,55.42685963607366
+2021-09-30,10.39021530504894,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-2966.103105641042,-342.85406412220146
+2021-12-31,-1.9068031484424,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,544.3366257956941,-118.35191179836113
+2022-03-31,16.8199536317546,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-4801.605668329377,-982.1022581955681
+2022-06-30,15.229697055895318,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-4347.63384677047,-9.454583589677778
+2022-09-30,10.48504846625372,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-2993.1752043135853,-31.153926254921636
+2022-12-31,-30.706233812102663,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,8765.733220981478,-392.85733786478073
+2023-03-31,-10.749275562301639,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,3068.60432557553,-64.99318142342523
+2023-06-30,-22.594254414078428,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,6449.999948959304,110.19327565959745
+2023-09-30,-11.350293542074361,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,3240.1774108304344,-49.76469090742813
+2023-12-31,3.3721095741514704,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-962.6388276662816,-129.70944814467936
+2024-03-31,-16.6819937465514,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,4762.222149129708,-594.7049726505142
+2024-06-30,7.485670405616649,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-2136.9403410837403,-144.87275633444074
+2024-09-30,4.8224624343228095,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,-1376.6722231763001,-35.57741427268266
+2024-12-31,-12.534879018669539,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,3578.341977961094,-359.926939595326
+2025-03-31,-9.29306794783802,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,2652.8995686567964,-25.862324367097134
+2025-06-30,-18.478221448518468,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,5274.992713436884,98.83876403612568
+2025-09-30,-13.609225901923761,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,3885.0366453379715,-26.34991446638978
+2025-12-31,-5.6034059678052595,net_margin_pct,Net margin,Margins,%,Quarterly,period_end,1599.6088007144951,-58.82641666626183
+2015-03-31,78219000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,100.0,
+2015-06-30,68389000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,87.43272095015277,-12.567279049847224
+2015-09-30,68644000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,87.758728697631,0.37286698153211617
+2015-12-31,52477000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,67.08983750751096,-23.55194918711031
+2016-03-31,49096000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,62.76735831447602,-6.442822569887763
+2016-06-30,60875000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,77.82635932446081,23.991771223724957
+2016-09-30,53291000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,68.13050537593168,-12.458316221765909
+2016-12-31,67449000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,86.23096690062518,26.56733782439811
+2017-03-31,83923000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,107.29234584947392,24.42437990185178
+2017-06-30,89862000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,114.88513021132974,7.0767250932402215
+2017-09-30,92504000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,118.26282616755519,2.9400636531570656
+2017-12-31,93051000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,118.9621447474399,0.5913257805067795
+2018-03-31,89346000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,114.22544394584435,-3.981687461714545
+2018-06-30,101145000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,129.31001419092547,13.205963333557191
+2018-09-30,116074000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,148.39616972858255,14.759998022640763
+2018-12-31,106939000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,136.7174215983329,-7.869979495838864
+2019-03-31,116319000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,148.70939285851264,8.77135563265039
+2019-06-30,98005000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,125.29564428080133,-15.744633292927212
+2019-09-30,114768000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,146.7264986767921,17.10422937605225
+2019-12-31,91036000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,116.38604431148443,-20.67823783633068
+2020-03-31,100221000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,128.12871552947493,10.08941517641373
+2020-06-30,84218000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,107.6694920671448,-15.96771135789904
+2020-09-30,79349000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,101.44466178294276,-5.7814243985846225
+2020-12-31,82452000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,105.41172860813867,3.9105722819443134
+2021-03-31,91802000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,117.36534601567395,11.339931111434542
+2021-06-30,98729000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,126.22125059128857,7.5455872421080095
+2021-09-30,124521000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,159.19533617151842,26.1240365039654
+2021-12-31,135305000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,172.9822677354607,8.660386601456782
+2022-03-31,157004000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,200.7236093532262,16.037101363585982
+2022-06-30,175775000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,224.7216149528887,11.955746350411456
+2022-09-30,155469000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,198.76117055958272,-11.552268525103116
+2022-12-31,135904000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,173.74806632659582,-12.584502376679596
+2023-03-31,115952000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,148.24019739449494,-14.680951259712739
+2023-06-30,85805000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,109.69841087203875,-25.99955153856768
+2023-09-30,86359000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,110.40667868420717,0.6456500203950721
+2023-12-31,77281000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,98.80080287398204,-10.511932745863195
+2024-03-31,76118000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,97.3139518531303,-1.5048977109509476
+2024-06-30,72926000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,93.23310193175571,-4.19348905646496
+2024-09-30,89643000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,114.60514708702489,22.92323725420289
+2024-12-31,74185000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,94.84268528106982,-17.243956583336118
+2025-03-31,80135000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,102.44953272222861,8.020489317247414
+2025-06-30,82719000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,105.75307789667472,3.2245585574343316
+2025-09-30,78388000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,100.216060036564,-5.235798305105233
+2025-12-31,81504000.0,net_sales,Net sales,Financial,USD,Quarterly,period_end,104.19974686457255,3.975098229320806
+2015-03-31,9.23305079328551,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,100.0,
+2015-06-30,8.72508736785155,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,94.49842271198851,-5.501577288011483
+2015-09-30,1.50923605850474,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,16.34601706731963,-82.70233872882844
+2015-12-31,-0.9966270937744101,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-10.794125539731466,-166.0352029199334
+2016-03-31,0.43384389766987,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,4.698814155613347,-143.53121647805332
+2016-06-30,2.78439425051334,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,30.156817208654545,541.7963386065884
+2016-09-30,5.80585840010508,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,62.8812570199141,108.51423605097206
+2016-12-31,14.15588073952171,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,153.3174793083148,143.82063364248606
+2017-03-31,31.97812280304565,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,346.34405809075463,125.89991673048036
+2017-06-30,23.63846787296076,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,256.02012164983654,-26.079251060010968
+2017-09-30,24.74163279425754,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,267.9681217853825,4.666820739928967
+2017-12-31,21.10777960473288,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,228.6111067436448,-14.687200395149613
+2018-03-31,23.475029659973583,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,254.2499785341284,11.215059563678164
+2018-06-30,19.92980374709575,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,215.85285506702908,-15.102114733097306
+2018-09-30,16.62818546789117,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,180.09416215909454,-16.566235779846572
+2018-12-31,-1.1221350489531399,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-12.153459068688138,-106.74839146532236
+2019-03-31,9.95882014116352,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,107.86055838018139,-987.4885558965726
+2019-06-30,5.06708841385643,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,54.87989319349715,-49.11959105564861
+2019-09-30,9.406803290115711,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,101.88185357928019,85.645138229519
+2019-12-31,-5.00241662638956,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-54.17945528933333,-153.1787098348904
+2020-03-31,2.87364923519022,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,31.12350727324066,-157.44521997689435
+2020-06-30,9.743760241278581,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,105.53131851461784,239.0727066462444
+2020-09-30,5.5879721231521495,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,60.52140563567411,-42.65076331128101
+2020-12-31,-6.54320089264056,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-70.86716015251349,-217.09437249213713
+2021-03-31,0.8877802226531,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,9.615242486250747,-113.56798052237136
+2021-06-30,9.25766492114778,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,100.2665871596869,942.7879203573125
+2021-09-30,19.62962070654749,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,212.6016757193907,112.03641386616292
+2021-12-31,-2.43893425963563,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-26.415258772423083,-112.4247650838313
+2022-03-31,24.630582660314378,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,266.76537594947825,-1109.8912081375297
+2022-06-30,17.67714407623382,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,191.4550723482324,-28.23091390072624
+2022-09-30,16.317722504164813,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,176.73164449643707,-7.690278283677577
+2022-12-31,-15.64560277843183,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-169.45214673582947,-195.88104451732505
+2023-03-31,1.2927763212363699,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,14.001616044141194,-108.26287321456556
+2023-06-30,-4.7969232562204995,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-51.953827219372975,-471.0559342263382
+2023-09-30,-6.3629731701386,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-68.91517562933697,32.64696619624456
+2023-12-31,-7.7121155264554,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-83.52727282799994,21.20301815271386
+2024-03-31,-0.61089361254893,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-6.616378770418832,-92.07878032359163
+2024-06-30,0.21665798206401,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,2.3465481444288026,-135.4657468360183
+2024-09-30,3.0197561438149103,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,32.70594098768467,1293.7894717964953
+2024-12-31,3.8579227606659003,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,41.7838355603055,27.756102709410158
+2025-03-31,-1.35271728957384,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-14.65081607216509,-135.06335853495298
+2025-06-30,-1.27056661710127,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-13.761070371509875,-6.073011197960721
+2025-09-30,0.15308465581466002,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,1.6580072962014543,-112.04853439042137
+2025-12-31,-2.55079505300353,operating_margin_pct,Operating margin,Margins,%,Quarterly,period_end,-27.626784581955594,-1766.2643551237325
+2018-04-30,1.744761904761905,sofr,SOFR,Rates,% rate,Monthly,month_end,100.0,
+2018-05-31,1.7304545454545455,sofr,SOFR,Rates,% rate,Monthly,month_end,99.17998213576816,-0.8200178642318479
+2018-06-30,1.8366666666666667,sofr,SOFR,Rates,% rate,Monthly,month_end,105.26746724890828,6.137816303300947
+2018-07-31,1.9138095238095238,sofr,SOFR,Rates,% rate,Monthly,month_end,109.68886462882095,4.200155561317098
+2018-08-31,1.917391304347826,sofr,SOFR,Rates,% rate,Monthly,month_end,109.89415226884371,0.1871544944124004
+2018-09-30,1.968421052631579,sofr,SOFR,Rates,% rate,Monthly,month_end,112.81889220868766,2.661415443370352
+2018-10-31,2.184090909090909,sofr,SOFR,Rates,% rate,Monthly,month_end,125.17988289003571,10.956490034030143
+2018-11-30,2.2205,sofr,SOFR,Rates,% rate,Monthly,month_end,127.26664847161571,1.6670135275754339
+2018-12-31,2.3505263157894736,sofr,SOFR,Rates,% rate,Monthly,month_end,134.71903010802114,5.855722395382745
+2019-01-31,2.472380952380952,sofr,SOFR,Rates,% rate,Monthly,month_end,141.70305676855892,5.184142622566257
+2019-02-28,2.404210526315789,sofr,SOFR,Rates,% rate,Monthly,month_end,137.79590898643988,-2.7572784040223897
+2019-03-31,2.4171428571428573,sofr,SOFR,Rates,% rate,Monthly,month_end,138.53711790393012,0.5379034275706962
+2019-04-30,2.4761904761904763,sofr,SOFR,Rates,% rate,Monthly,month_end,141.92139737991266,2.4428684003152012
+2019-05-31,2.4204545454545454,sofr,SOFR,Rates,% rate,Monthly,month_end,138.7269253672092,-2.250874125874136
+2019-06-30,2.393,sofr,SOFR,Rates,% rate,Monthly,month_end,137.15338427947597,-1.1342723004694855
+2019-07-31,2.4495454545454547,sofr,SOFR,Rates,% rate,Monthly,month_end,140.39425367209208,2.3629525510010296
+2019-08-31,2.1281818181818184,sofr,SOFR,Rates,% rate,Monthly,month_end,121.97548630408892,-13.1193171274819
+2019-09-30,2.2715,sofr,SOFR,Rates,% rate,Monthly,month_end,130.18968340611352,6.734301580521129
+2019-10-31,1.8640909090909092,sofr,SOFR,Rates,% rate,Monthly,month_end,106.83927153632393,-17.93568527004582
+2019-11-30,1.5726315789473686,sofr,SOFR,Rates,% rate,Monthly,month_end,90.13445185014939,-15.635467600970232
+2019-12-31,1.5461904761904761,sofr,SOFR,Rates,% rate,Monthly,month_end,88.61899563318775,-1.681328488557421
+2020-01-31,1.5480952380952382,sofr,SOFR,Rates,% rate,Monthly,month_end,88.72816593886462,0.12319063751156101
+2020-02-29,1.5857894736842106,sofr,SOFR,Rates,% rate,Monthly,month_end,90.88858883015398,2.434878337029911
+2020-03-31,0.6095454545454545,sofr,SOFR,Rates,% rate,Monthly,month_end,34.9357383882493,-61.5620191292279
+2020-04-30,0.019523809523809523,sofr,SOFR,Rates,% rate,Monthly,month_end,1.1189956331877728,-96.79698874329746
+2020-05-31,0.0455,sofr,SOFR,Rates,% rate,Monthly,month_end,2.607805676855895,133.0487804878049
+2020-06-30,0.07909090909090909,sofr,SOFR,Rates,% rate,Monthly,month_end,4.533048828900356,73.82617382617383
+2020-07-31,0.10545454545454545,sofr,SOFR,Rates,% rate,Monthly,month_end,6.044065105200476,33.33333333333335
+2020-08-31,0.08571428571428572,sofr,SOFR,Rates,% rate,Monthly,month_end,4.912663755458515,-18.7192118226601
+2020-09-30,0.08571428571428572,sofr,SOFR,Rates,% rate,Monthly,month_end,4.912663755458515,0.0
+2020-10-31,0.08714285714285713,sofr,SOFR,Rates,% rate,Monthly,month_end,4.994541484716156,1.6666666666666607
+2020-11-30,0.08631578947368422,sofr,SOFR,Rates,% rate,Monthly,month_end,4.947138588830154,-0.9490940465918696
+2020-12-31,0.08227272727272729,sofr,SOFR,Rates,% rate,Monthly,month_end,4.715412862246924,-4.684035476718396
+2021-01-31,0.07105263157894737,sofr,SOFR,Rates,% rate,Monthly,month_end,4.072339692024821,-13.63768537365515
+2021-02-28,0.041578947368421056,sofr,SOFR,Rates,% rate,Monthly,month_end,2.3830728568145254,-41.481481481481474
+2021-03-31,0.015217391304347827,sofr,SOFR,Rates,% rate,Monthly,month_end,0.87217581165749,-63.40121078701155
+2021-04-30,0.010000000000000002,sofr,SOFR,Rates,% rate,Monthly,month_end,0.5731441048034935,-34.28571428571428
+2021-05-31,0.01,sofr,SOFR,Rates,% rate,Monthly,month_end,0.5731441048034934,-2.220446049250313e-14
+2021-06-30,0.028181818181818186,sofr,SOFR,Rates,% rate,Monthly,month_end,1.6152242953552998,181.81818181818187
+2021-07-31,0.05,sofr,SOFR,Rates,% rate,Monthly,month_end,2.865720524017467,77.41935483870965
+2021-08-31,0.05,sofr,SOFR,Rates,% rate,Monthly,month_end,2.865720524017467,0.0
+2021-09-30,0.05,sofr,SOFR,Rates,% rate,Monthly,month_end,2.865720524017467,0.0
+2021-10-31,0.0465,sofr,SOFR,Rates,% rate,Monthly,month_end,2.665120087336244,-7.000000000000006
+2021-11-30,0.05,sofr,SOFR,Rates,% rate,Monthly,month_end,2.865720524017467,7.526881720430123
+2021-12-31,0.049545454545454545,sofr,SOFR,Rates,% rate,Monthly,month_end,2.8396685192536717,-0.909090909090915
+2022-01-31,0.04800000000000001,sofr,SOFR,Rates,% rate,Monthly,month_end,2.7510917030567685,-3.119266055045855
+2022-02-28,0.04947368421052632,sofr,SOFR,Rates,% rate,Monthly,month_end,2.8355550448172835,3.0701754385964897
+2022-03-31,0.16130434782608696,sofr,SOFR,Rates,% rate,Monthly,month_end,9.245063603569394,226.04070305272893
+2022-04-30,0.28600000000000003,sofr,SOFR,Rates,% rate,Monthly,month_end,16.391921397379914,77.30458221024259
+2022-05-31,0.7161904761904763,sofr,SOFR,Rates,% rate,Monthly,month_end,41.04803493449782,150.41625041625042
+2022-06-30,1.0966666666666667,sofr,SOFR,Rates,% rate,Monthly,month_end,62.85480349344977,53.12499999999998
+2022-07-31,1.6070000000000002,sofr,SOFR,Rates,% rate,Monthly,month_end,92.1042576419214,46.53495440729485
+2022-08-31,2.283478260869565,sofr,SOFR,Rates,% rate,Monthly,month_end,130.87621036643247,42.09572251833011
+2022-09-30,2.5114285714285716,sofr,SOFR,Rates,% rate,Monthly,month_end,143.94104803493448,9.982591665759987
+2022-10-31,3.0364999999999998,sofr,SOFR,Rates,% rate,Monthly,month_end,174.03520742358077,20.907281001137633
+2022-11-30,3.7219999999999995,sofr,SOFR,Rates,% rate,Monthly,month_end,213.3242358078602,22.575333443108846
+2022-12-31,4.065714285714286,sofr,SOFR,Rates,% rate,Monthly,month_end,233.02401746724888,9.234666461963625
+2023-01-31,4.3045,sofr,SOFR,Rates,% rate,Monthly,month_end,246.70987991266372,5.87315530569219
+2023-02-28,4.537894736842105,sofr,SOFR,Rates,% rate,Monthly,month_end,260.08676166398527,5.4221102762714635
+2023-03-31,4.635652173913043,sofr,SOFR,Rates,% rate,Monthly,month_end,265.68967153977593,2.1542464675804007
+2023-04-30,4.806315789473684,sofr,SOFR,Rates,% rate,Monthly,month_end,275.47115605607905,3.681544886414123
+2023-05-31,5.0227272727272725,sofr,SOFR,Rates,% rate,Monthly,month_end,287.87465263993647,4.502648030900325
+2023-06-30,5.0561904761904755,sofr,SOFR,Rates,% rate,Monthly,month_end,289.7925764192139,0.6662357250592388
+2023-07-31,5.0945,sofr,SOFR,Rates,% rate,Monthly,month_end,291.9882641921397,0.7576756451309175
+2023-08-31,5.300869565217392,sofr,SOFR,Rates,% rate,Monthly,month_end,303.8162141636605,4.050830605896394
+2023-09-30,5.305999999999999,sofr,SOFR,Rates,% rate,Monthly,month_end,304.1102620087335,0.09678477690286957
+2023-10-31,5.311428571428571,sofr,SOFR,Rates,% rate,Monthly,month_end,304.4213973799126,0.1023100533089405
+2023-11-30,5.319047619047619,sofr,SOFR,Rates,% rate,Monthly,month_end,304.85807860262,0.14344629729243774
+2023-12-31,5.3355,sofr,SOFR,Rates,% rate,Monthly,month_end,305.8010371179039,0.3093106535362544
+2024-01-31,5.32095238095238,sofr,SOFR,Rates,% rate,Monthly,month_end,304.9672489082968,-0.2726570901999792
+2024-02-29,5.308999999999999,sofr,SOFR,Rates,% rate,Monthly,month_end,304.28220524017456,-0.2246286021120425
+2024-03-31,5.313,sofr,SOFR,Rates,% rate,Monthly,month_end,304.511462882096,0.07534375588624798
+2024-04-30,5.316818181818181,sofr,SOFR,Rates,% rate,Monthly,month_end,304.73029972211185,0.07186489399928497
+2024-05-31,5.3145454545454545,sofr,SOFR,Rates,% rate,Monthly,month_end,304.60003969829296,-0.04274600324869482
+2024-06-30,5.325263157894737,sofr,SOFR,Rates,% rate,Monthly,month_end,305.2143185474603,0.20166735689721715
+2024-07-31,5.343181818181819,sofr,SOFR,Rates,% rate,Monthly,month_end,306.24131599841206,0.33648403385506676
+2024-08-31,5.332727272727273,sofr,SOFR,Rates,% rate,Monthly,month_end,305.6421198888448,-0.19566142067205528
+2024-09-30,5.145499999999999,sofr,SOFR,Rates,% rate,Monthly,month_end,294.91129912663746,-3.510910330719419
+2024-10-31,4.850952380952381,sofr,SOFR,Rates,% rate,Monthly,month_end,278.0294759825327,-5.724373123071002
+2024-11-30,4.643684210526316,sofr,SOFR,Rates,% rate,Monthly,month_end,266.15002298322224,-4.272731499899251
+2024-12-31,4.531904761904762,sofr,SOFR,Rates,% rate,Monthly,month_end,259.7434497816594,-2.407128554697402
+2025-01-31,4.315714285714286,sofr,SOFR,Rates,% rate,Monthly,month_end,247.35262008733622,-4.770410843753292
+2025-02-28,4.343684210526315,sofr,SOFR,Rates,% rate,Monthly,month_end,248.95569983911736,0.6480949145455384
+2025-03-31,4.326666666666666,sofr,SOFR,Rates,% rate,Monthly,month_end,247.9803493449781,-0.3917767276545914
+2025-04-30,4.348571428571429,sofr,SOFR,Rates,% rate,Monthly,month_end,249.23580786026199,0.5062733876293413
+2025-05-31,4.305238095238096,sofr,SOFR,Rates,% rate,Monthly,month_end,246.75218340611355,-0.9964958388085754
+2025-06-30,4.3165000000000004,sofr,SOFR,Rates,% rate,Monthly,month_end,247.39765283842794,0.2615861077314374
+2025-07-31,4.336818181818182,sofr,SOFR,Rates,% rate,Monthly,month_end,248.56217745136954,0.4707096448090198
+2025-08-31,4.344285714285714,sofr,SOFR,Rates,% rate,Monthly,month_end,248.99017467248905,0.17218919849670833
+2025-09-30,4.2995238095238095,sofr,SOFR,Rates,% rate,Monthly,month_end,246.42467248908292,-1.030362819248054
+2025-10-31,4.200909090909091,sofr,SOFR,Rates,% rate,Monthly,month_end,240.77262802699485,-2.2936195491295663
+2025-11-30,3.9777777777777774,sofr,SOFR,Rates,% rate,Monthly,month_end,227.98398835516736,-5.311500637187727
+2025-12-31,3.8,sofr,SOFR,Rates,% rate,Monthly,month_end,217.79475982532745,-4.469273743016755
+2026-01-31,3.6565,sofr,SOFR,Rates,% rate,Monthly,month_end,209.57014192139732,-3.776315789473683
+2026-02-28,3.6673684210526316,sofr,SOFR,Rates,% rate,Monthly,month_end,210.19305906688115,0.2972356366096385
+2026-03-31,3.6504545454545454,sofr,SOFR,Rates,% rate,Monthly,month_end,209.22365025803887,-0.46119924851268923
+2026-04-30,3.641904761904762,sofr,SOFR,Rates,% rate,Monthly,month_end,208.73362445414844,-0.2342114781412441
+2026-05-31,3.6000000000000005,sofr,SOFR,Rates,% rate,Monthly,month_end,206.33187772925763,-1.1506276150627603
+2017-09-30,7.378241666666667,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,100.0,
+2017-10-31,7.379090909090909,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,100.01151009227685,0.011510092276845185
+2017-11-30,7.380624999999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,100.03230218581886,0.02078970062830976
+2017-12-31,7.5178789473684215,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,101.89255498817022,1.8596520940763472
+2018-01-31,7.637372727272727,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,103.51209776411581,1.5894613459576101
+2018-02-28,7.790831578947369,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,105.59198154412177,2.0093146839180287
+2018-03-31,7.835236842105263,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,106.19382226937894,0.5699682082447755
+2018-04-30,7.840485714285713,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,106.26496214819538,0.06699060010852964
+2018-05-31,7.851150000000001,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,106.40949910152489,0.13601562585410232
+2018-06-30,7.9398,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,107.61100488034072,1.1291339485298257
+2018-07-31,8.104209090909091,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,109.83930124601626,2.0706956209110006
+2018-08-31,8.105783333333333,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,109.86063752768555,0.019424997634964747
+2018-09-30,8.114654999999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,109.98087846133167,0.10944860356905117
+2018-10-31,8.119982608695652,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,110.05308548485222,0.06565416146038228
+2018-11-30,8.250415789473685,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,111.82089395021195,1.6063234007219762
+2018-12-31,8.423831578947368,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,114.17126138608953,2.1019036361165755
+2019-01-31,8.592142857142857,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,116.45244551910434,1.9980370763362343
+2019-02-28,8.558542105263157,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,115.99704227538166,-0.39106370131830603
+2019-03-31,8.51802,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,115.44783140517896,-0.47346971908028834
+2019-04-30,8.497404999999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,115.16842879231612,-0.24201633713000215
+2019-05-31,8.506909090909092,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,115.29724120235186,0.11184698044983676
+2019-06-30,8.50652,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,115.29196771136753,-0.004573822347619938
+2019-07-31,8.473881818181818,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,114.84961053071791,-0.3836843011969959
+2019-08-31,8.360768181818182,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,113.31654016688503,-1.3348502940049967
+2019-09-30,8.17129090909091,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,110.74848559118186,-2.266266311979803
+2019-10-31,7.995778260869566,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,108.36969866401635,-2.147918244179503
+2019-11-30,7.86355,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,106.57756082354761,-1.653725960819541
+2019-12-31,7.685254999999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,104.16106366806002,-2.2673601617590133
+2020-01-31,7.527559090909092,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,102.02375350372446,-2.051928128486391
+2020-02-29,7.379868421052631,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,100.02204799543655,-1.9619994751661873
+2020-03-31,7.0729380952380945,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,95.8621093585499,-4.159021655981743
+2020-04-30,6.5146049999999995,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,88.29481730629135,-7.893934426119131
+2020-05-31,5.981368421052632,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,81.06766749149988,-8.185248053371897
+2020-06-30,5.628013636363636,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,76.27852123345063,-5.907591036280135
+2020-07-31,5.227478260869566,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,70.84991922243758,-7.116816009579951
+2020-08-31,4.9471904761904755,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,67.05107666154166,-5.3618163613838865
+2020-09-30,4.709847619047619,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,63.83428236466845,-4.797528178571753
+2020-10-31,4.530822727272727,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,61.407892719779355,-3.8010760911006525
+2020-11-30,4.497278947368421,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,60.95326163801567,-0.7403463327398274
+2020-12-31,4.485381818181819,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,60.79201550751344,-0.26454061057439304
+2021-01-31,4.46687,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,60.54111808481921,-0.4127144339592159
+2021-02-28,4.353978947368422,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,59.011064479478584,-2.5272965775045675
+2021-03-31,4.283618181818182,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,58.05743936486469,-1.6160106973591493
+2021-04-30,4.284325,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,58.067019129444795,0.016500494484250616
+2021-05-31,4.285028571428572,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,58.076554889594135,0.016421990128479003
+2021-06-30,4.318623809523809,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,58.53188340298525,0.7840143311818704
+2021-07-31,4.518618181818182,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,61.24248006448937,4.6309746140269725
+2021-08-31,4.656195454545454,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,63.107115013339275,3.0446757657208057
+2021-09-30,4.746242857142857,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,64.32756029916148,1.9339266033065128
+2021-10-31,4.986804761904762,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,67.58798352233553,5.068470198482822
+2021-11-30,5.137045,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,69.62424425873824,3.0127555673114426
+2021-12-31,5.463769565217391,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,74.05246144080026,6.3601655274071245
+2022-01-31,5.724790476190476,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,77.59017303612956,4.777304530461102
+2022-02-28,6.048984210526316,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,81.98408894431239,5.662979906149723
+2022-03-31,6.3568,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,86.15602859308169,5.08871868003935
+2022-04-30,6.733459999999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,91.26103893316947,5.925308331235835
+2022-05-31,7.035268181818181,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,95.35155528453389,4.482215411069235
+2022-06-30,7.458240909090909,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,101.08425890663982,6.012176314271156
+2022-07-31,8.039657142857143,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,108.96440515331196,7.795621525949126
+2022-08-31,8.530265217391305,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,115.61379530206007,6.102350707455773
+2022-09-30,8.925095238095238,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,120.96507055897787,4.628578486621526
+2022-10-31,9.565442857142857,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,129.64393536142225,7.174686678013309
+2022-11-30,10.033840000000001,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,135.99229265328574,4.8967637970611655
+2022-12-31,10.548066666666667,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,142.96179419441623,5.124923924107483
+2023-01-31,10.782818181818183,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,146.14346708827216,2.2255406850372195
+2023-02-28,11.125763157894736,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,150.7915254139557,3.1804762938025144
+2023-03-31,11.34780909090909,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,153.80099491964444,1.9957815914568577
+2023-04-30,11.529949999999998,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,156.26961708356438,1.6050755492249547
+2023-05-31,11.5331,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,156.31231018230403,0.027320153166332517
+2023-06-30,11.501154545454545,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.87934178700496,-0.27698931376173297
+2023-07-31,11.501338095238093,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.8818295041582,0.001595924851049979
+2023-08-31,11.499734782608694,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.8600992233971,-0.013940226920750032
+2023-09-30,11.503052380952381,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.90506384360836,0.028849346584092217
+2023-10-31,11.5034,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.9097752513302,0.003021972221861624
+2023-11-30,11.505165,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.9336969399891,0.01534328980996591
+2023-12-31,11.504152631578945,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.91997594158877,-0.008799251649627138
+2024-01-31,11.500813636363636,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.8747213217734,-0.02902426038875472
+2024-02-29,11.495370000000001,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,155.8009417329558,-0.04733261954983359
+2024-03-31,11.427555555555555,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,154.88182783687924,-0.5899283315321413
+2024-04-30,11.246313636363636,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,152.42539001090327,-1.586007771397857
+2024-05-31,11.239852380952382,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,152.3378182600287,-0.05745220718692545
+2024-06-30,11.244945,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,152.40684038315362,0.04530859369868967
+2024-07-31,11.245565217391304,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,152.41524641563836,0.005515521786048083
+2024-08-31,11.08025,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,150.17466898730387,-1.4700480962543727
+2024-09-30,10.949420000000002,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,148.4014822863171,-1.1807495318246208
+2024-10-31,10.734665000000001,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,145.49082945462393,-1.9613367648697366
+2024-11-30,10.59348125,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,143.57731460408928,-1.3152133764770646
+2024-12-31,10.386140000000001,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,140.76714302978692,-1.9572531928538472
+2025-01-31,10.28193888888889,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,139.35486737091455,-1.0032708119774192
+2025-02-28,9.900456250000001,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,134.1844940472493,-3.7102208349160226
+2025-03-31,9.737770588235295,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,131.97955594526647,-1.643213783856745
+2025-04-30,9.2805,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,125.78200090581653,-4.695844742817689
+2025-05-31,9.050164705882352,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,122.66018266613683,-2.48192763447711
+2025-06-30,8.732817647058825,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,118.35906224801292,-3.5065335177520085
+2025-07-31,8.255573684210527,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,111.89080077855758,-5.464948223315213
+2025-08-31,8.0754375,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,109.44934938202304,-2.1819947480458235
+2025-09-30,8.016717647058824,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,108.65349780119912,-0.7271414451684555
+2025-10-31,7.811405555555556,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,105.87082815199496,-2.5610493039952997
+2025-11-30,7.6084,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,103.11941982563594,-2.598835179043757
+2025-12-31,7.488959999999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,101.50060594834585,-1.5698438567898765
+2026-01-31,7.292117647058824,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,98.83272975461168,-2.628433760377613
+2026-02-28,7.290456249999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,98.81021223439639,-0.022783464821007904
+2026-03-31,7.239416666666666,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,98.11845414840256,-0.7000876431201841
+2026-04-30,7.009911111111111,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,95.00788165804333,-3.170221664575479
+2026-05-31,6.920699999999999,tiie_28d,TIIE 28D,Rates,% rate,Monthly,month_end,93.798770935713,-1.2726425442072586
+2016-05-31,18.457611111111113,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,100.0,
+2016-06-30,18.65568181818182,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.07311128118563,1.0731112811856347
+2016-07-31,18.606976190476193,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,100.80923299589493,-0.2610766423886912
+2016-08-31,18.472804347826088,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,100.08231420969655,-0.7210835402626015
+2016-09-30,19.210636363636365,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.07975467676825,3.994152711832877
+2016-10-31,18.88957142857143,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,102.34028290475945,-1.6712873482560786
+2016-11-30,20.107977272727272,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.94138548960255,6.450150808148791
+2016-12-31,20.517931818181818,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,111.16244510011609,2.0387657092221456
+2017-01-31,21.381659090909093,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,115.84196330822985,4.209621517320228
+2017-02-28,20.30895,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,110.03021939157888,-5.0169590972722
+2017-03-31,19.28908695652174,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.50478580573244,-5.02174186000881
+2017-04-30,18.756149999999998,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.61742972637,-2.762893638890218
+2017-05-31,18.75617391304348,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.61755928291629,0.00012749441373749448
+2017-06-30,18.12584090909091,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,98.20252902706092,-3.3606694354343825
+2017-07-31,17.833619047619045,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,96.61932381316433,-1.6121837488119128
+2017-08-31,17.809108695652174,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,96.48653115749875,-0.1374390240221235
+2017-09-30,17.83452380952381,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,96.62422564959006,0.14270851116675587
+2017-10-31,18.81490909090909,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.93577585770505,5.497120595178129
+2017-11-30,18.924704545454546,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,102.53062778022368,0.5835555942096171
+2017-12-31,19.20411904761905,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.04444503686912,1.4764537089252183
+2018-01-31,18.93932608695652,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,102.60984464861448,-1.3788341970071172
+2018-02-28,18.64495,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.01496823051015,-1.5543113076196269
+2018-03-31,18.60018181818182,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,100.77242231517643,-0.2401088864179335
+2018-04-30,18.384761904761906,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,99.60531617059938,-1.158160256311791
+2018-05-31,19.570521739130434,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,106.02954857657268,6.449688282671762
+2018-06-30,20.293761904761904,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,109.94793303747453,3.6955589394706
+2018-07-31,19.012522727272728,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.00641081243482,-6.313463139569675
+2018-08-31,18.85723913043478,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,102.16511235889622,-0.8167437802201749
+2018-09-30,19.01475,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.01847777339668,0.8352806499176246
+2018-10-31,19.19058695652174,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.97113061380621,0.9247397758147757
+2018-11-30,20.259136363636365,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,109.7603381156989,5.568091322769497
+2018-12-31,20.09714285714286,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.88268658474867,-0.7996071677777494
+2019-01-31,19.186673913043478,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.94993045169039,-4.530340210901107
+2019-02-28,19.20045,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.02456680020586,0.07180028711051278
+2019-03-31,19.241380952380954,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.24632330019148,0.21317704731376175
+2019-04-30,18.9695,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,102.77332145426305,-1.413001244836909
+2019-05-31,19.10386956521739,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.50131146558421,0.7083453186293331
+2019-06-30,19.2722,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.4132953283349,0.8811326637671923
+2019-07-31,19.04626956521739,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.18924507923953,-1.1723126305383524
+2019-08-31,19.691522727272726,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,106.68511005424111,3.3878191204103736
+2019-09-30,19.575038095238096,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,106.05401737744012,-0.5915471020090268
+2019-10-31,19.31682608695652,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.65507139939783,-1.3190881520909414
+2019-11-30,19.329247619047617,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,104.72236901454596,0.06430420833722916
+2019-12-31,19.096518181818183,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.46148299940322,-1.2040273983561334
+2020-01-31,18.811804347826087,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.91895492099601,-1.4909201315199572
+2020-02-29,18.837764999999997,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,102.05960504097975,0.13800192524813237
+2020-03-31,22.399490909090908,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,121.35639208265073,18.90736989813235
+2020-04-30,24.168140909090912,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,130.93861802377108,7.895938381716494
+2020-05-31,23.479209523809523,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,127.20611233203145,-2.8505766656724774
+2020-06-30,22.299395454545454,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,120.81409300644364,-5.024930963147023
+2020-07-31,22.403108695652175,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,121.37599259617053,0.4650944072368546
+2020-08-31,22.208261904761905,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,120.32034790999022,-0.8697310428533722
+2020-09-30,21.665509090909094,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,117.37981129024271,-2.4439229696603726
+2020-10-31,21.26463181818182,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,115.20793070226154,-1.850301652479902
+2020-11-30,20.427633333333333,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,110.67322423450727,-3.9361061691782107
+2020-12-31,19.956595652173913,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.12122723812531,-2.305884746769915
+2021-01-31,19.917085714285715,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,107.90716953775252,-0.19797934766441205
+2021-02-28,20.307485,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,110.02228228644009,1.9601225365730501
+2021-03-31,20.75448260869565,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,112.4440345164812,2.20114705831691
+2021-04-30,20.046363636363637,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.60757394707557,-3.4118844862715436
+2021-05-31,19.96427142857143,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.16281320692327,-0.40951171634587835
+2021-06-30,20.038563636363637,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.56531495725805,0.37212581514938226
+2021-07-31,19.968818181818182,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.18744669399472,-0.3480561571733043
+2021-08-31,20.08292727272727,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.80566911845786,0.5714363758040797
+2021-09-30,20.038286363636363,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.56381274375056,-0.22228287980473604
+2021-10-31,20.464219047619046,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,110.87143902007988,2.1255943559905788
+2021-11-30,20.884895454545457,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,113.15058773761446,2.0556680220609413
+2021-12-31,20.889891304347824,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,113.17765434863088,0.023920875319860535
+2022-01-31,20.503457142857144,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,111.08402392612157,-1.8498620019638423
+2022-02-28,20.45301,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,110.81071042659305,-0.24604213087410232
+2022-03-31,20.552891304347828,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,111.35184927574619,0.4883452574844904
+2022-04-30,20.095385714285715,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.87316670242713,-2.2259913862597513
+2022-05-31,20.03540909090909,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.54822420030388,-0.29845967740737
+2022-06-30,20.02972727272727,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.51744113662562,-0.028358882796153395
+2022-07-31,20.548157142857143,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,111.32620044469115,2.588302192390679
+2022-08-31,20.11875652173913,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.99978551194005,-2.089728135387947
+2022-09-30,20.073936363636363,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.75695799849339,-0.22277797365028995
+2022-10-31,19.977780952380954,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.23600536450098,-0.479006257236092
+2022-11-30,19.455136363636363,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,105.40441147297095,-2.6161293388408224
+2022-12-31,19.605472727272726,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,106.21890671144665,0.7727335384672962
+2023-01-31,18.987709090909092,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,102.87197501673914,-3.1509754697435888
+2023-02-28,18.63185,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,100.94399479889356,-1.8741549557417136
+2023-03-31,18.39691304347826,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,99.67114884332831,-1.2609427218539193
+2023-04-30,18.104750000000003,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,98.08826229468724,-1.5881090636661432
+2023-05-31,17.754930434782608,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,96.19300313513754,-1.9321977117463307
+2023-06-30,17.243836363636362,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,93.42398785970693,-2.8786036251935543
+2023-07-31,16.90200476190476,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,91.57200604215835,-1.9823407884596578
+2023-08-31,16.977391304347826,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,91.98043669978384,0.44602130637769744
+2023-09-30,17.308009523809524,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,93.77166643949091,1.9474029521663327
+2023-10-31,18.079945454545456,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,97.95387575189342,4.459992523542522
+2023-11-30,17.37363636363636,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,94.12722079282393,-3.9065886160155494
+2023-12-31,17.181390476190476,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,93.08566733128114,-1.106537994822221
+2024-01-31,17.078404347826087,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,92.52770710693558,-0.5994050860266831
+2024-02-29,17.098200000000002,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,92.63495637150588,0.11591043150604996
+2024-03-31,16.772209523809526,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,90.86879890818044,-1.9065777461398037
+2024-04-30,16.811395454545455,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,91.08110119638035,0.23363606733091125
+2024-05-31,16.806608695652177,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,91.05516740210727,-0.028473298996622987
+2024-06-30,18.208385,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,98.64973798824333,8.340625582069139
+2024-07-31,18.110652173913046,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,98.12023920587856,-0.5367462632570374
+2024-08-31,19.14325909090909,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.71471679444602,5.7016550650971665
+2024-09-30,19.604819047619046,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,106.21536519326347,2.4110834760061595
+2024-10-31,19.707821739130434,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,106.773415153745,0.5253947575909912
+2024-11-30,20.343514285714285,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,110.21748244261087,3.2255850240499484
+2024-12-31,20.26245909090909,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,109.77834005133793,-0.3984326093654067
+2025-01-31,20.554017391304345,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,111.35795021128838,1.4389087676236922
+2025-02-28,20.46023,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,110.84982708127029,-0.4562971292610851
+2025-03-31,20.22447619047619,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,109.57255556382081,-1.1522539557170641
+2025-04-30,20.04635,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,108.60750006772273,-0.8807456311776818
+2025-05-31,19.448427272727272,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,105.36806283137967,-2.9827012262717556
+2025-06-30,19.02964761904762,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,103.099190380017,-2.153282873761786
+2025-07-31,18.687117391304348,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.24342353304365,-1.7999819786490345
+2025-08-31,18.7046,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,101.33814114622994,0.09355433654945067
+2025-09-30,18.489859090909093,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,100.17471372434848,-1.1480646958015983
+2025-10-31,18.428730434782608,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,99.84352971706551,-0.3306063925416325
+2025-11-30,18.415155,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,99.76998046575184,-0.07366451438775012
+2025-12-31,18.065778260869564,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,97.8771204578816,-1.8972239936640989
+2026-01-31,17.663736363636364,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,95.69893014488288,-2.2254335873479802
+2026-02-28,17.22931,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,93.34528664778456,-2.4594250881749935
+2026-03-31,17.77194090909091,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,96.28516280957159,3.1494639604888963
+2026-04-30,17.4606975,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,94.59890228963057,-1.7513191760147206
+2026-05-31,17.291258333333335,usd_mxn,USD/MXN,FX,MXN per USD,Monthly,month_end,93.68091151798265,-0.9704031964740456

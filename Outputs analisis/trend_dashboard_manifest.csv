@@ -1,0 +1,7 @@
+dashboard,file,purpose
+Monthly base 100 trends,/Users/alejandrodelvillar/Desktop/Autlán Project/Outputs análisis/Dashboards HTML/monthly_base100_trends.html,Relative trend comparison across variables with different units.
+Monthly absolute small multiples,/Users/alejandrodelvillar/Desktop/Autlán Project/Outputs análisis/Dashboards HTML/monthly_absolute_small_multiples.html,Absolute levels by category with each category on its own y-axis.
+Monthly dual-axis presets,/Users/alejandrodelvillar/Desktop/Autlán Project/Outputs análisis/Dashboards HTML/monthly_dual_axis_presets.html,Two-axis macro-financial pair comparisons.
+Annual base 100 trends,/Users/alejandrodelvillar/Desktop/Autlán Project/Outputs análisis/Dashboards HTML/annual_base100_trends.html,Long-term annual structural trend comparison with explicit year labels.
+Monthly cycle by variable,/Users/alejandrodelvillar/Desktop/Autlán Project/Outputs análisis/Dashboards HTML/monthly_cycle_by_variable.html,Calendar-month cycle view with historical yearly lines plus average and median monthly patterns.
+Monthly smoothed base 100 trends,/Users/alejandrodelvillar/Desktop/Autlán Project/Outputs análisis/Dashboards HTML/monthly_smoothed_base100_trends.html,Rolling-average view to reduce noise and identify broad cycles.

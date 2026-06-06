@@ -1,0 +1,7 @@
+requested_variable,status,reason
+EBITDA,Not available,Depreciation/amortization is not available in the clean dataset.
+Inflation Mexico,Not available,Not present in the consolidated workbook currently used.
+Silver,Not available,No silver price sheet/column in the consolidated workbook.
+Copper,Not available,No copper price sheet/column in the consolidated workbook.
+Energy costs,Not available,No energy price/cost series in the consolidated workbook.
+Production / volume,Not available,No monthly or quarterly production/volume series in the consolidated workbook.

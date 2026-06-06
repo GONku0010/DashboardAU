@@ -1,0 +1,18 @@
+model_name,sample_name,y_col,x_cols,n_obs,r2,adj_r2,aic,bic,status,model_family,rank_within_y
+Financial expense / sales ~ SOFR,Available observations,financial_expense_to_sales,sofr_qavg,30,0.2548926782901325,0.22828170251478008,-84.6570106231595,-81.85461585983518,ok,multivariate,1.0
+Financial expense / sales ~ SOFR + USD/MXN,Available observations,financial_expense_to_sales,"sofr_qavg, ln_usd_mxn",30,0.2724385764944368,0.21854513771624684,-83.37190575037508,-79.16831360538862,ok,multivariate,2.0
+Gross margin ~ manganese + USD/MXN,Available observations,gross_margin,"ln_manganese, ln_usd_mxn",19,0.34362844673337156,0.26158200257504305,-42.49429914418846,-39.66098220668914,ok,multivariate,1.0
+gross_margin ~ manganese_t_minus_1,Full 2015-2025,gross_margin,ln_manganese_lag1,18,0.30360931282927084,0.2600848948811003,-40.17874140147368,-38.39799788568135,ok,lag,2.0
+gross_margin ~ manganese_t + lag1,Full 2015-2025,gross_margin,"ln_manganese, ln_manganese_lag1",18,0.33464788151132796,0.24593426571283838,-38.999441195153004,-36.32832592146451,ok,lag,3.0
+Gross margin ~ manganese + USD/MXN + SOFR,Available observations,gross_margin,"ln_manganese, ln_usd_mxn, sofr_qavg",19,0.36912501936911235,0.2429500232429348,-41.247065973785084,-37.46931005711932,ok,multivariate,4.0
+Gross margin ~ manganese | 2020-2025,2020-2025,gross_margin,ln_manganese,19,0.26819799748778883,0.2251508208694235,-42.42742274796822,-40.53854478963534,ok,subperiod,5.0
+ln_sales ~ manganese_t + lag1,Full 2015-2025,ln_sales,"ln_manganese, ln_manganese_lag1",18,0.6766098616961962,0.6334911765890223,-7.438570347018519,-4.7674550733300265,ok,lag,1.0
+ln_sales ~ manganese_t_minus_1,Full 2015-2025,ln_sales,ln_manganese_lag1,18,0.6407139206765944,0.6182585407188815,-7.543899407977769,-5.7631558921854396,ok,lag,2.0
+ln_sales ~ manganese_t_minus_2,Full 2015-2025,ln_sales,ln_manganese_lag2,17,0.5892412756929666,0.5618573607391644,-4.218939398170864,-2.5525127100584317,ok,lag,3.0
+Sales ~ manganese + USD/MXN + SOFR,Available observations,ln_sales,"ln_manganese, ln_usd_mxn, sofr_qavg",19,0.6291828747066017,0.5550194496479222,-4.610047346163988,-0.8322914294982269,ok,multivariate,4.0
+Sales ~ manganese + USD/MXN,Available observations,ln_sales,"ln_manganese, ln_usd_mxn",19,0.6000739797829506,0.5500832272558195,-5.174206645321725,-2.340889707822404,ok,multivariate,5.0
+Operating margin ~ manganese + USD/MXN + SOFR,Available observations,operating_margin,"ln_manganese, ln_usd_mxn, sofr_qavg",19,0.48332904318518544,0.3799948518222226,-37.959596217430516,-34.181840300764755,ok,multivariate,1.0
+Operating margin ~ manganese + USD/MXN,Available observations,operating_margin,"ln_manganese, ln_usd_mxn",19,0.4335932378806091,0.3627923926156853,-38.213377346683565,-35.380060409184246,ok,multivariate,2.0
+operating_margin ~ manganese_t + lag1,Full 2015-2025,operating_margin,"ln_manganese, ln_manganese_lag1",18,0.40413790869216326,0.3246896298511184,-34.418054132110974,-31.74693885842248,ok,lag,3.0
+operating_margin ~ manganese_t_minus_1,Full 2015-2025,operating_margin,ln_manganese_lag1,18,0.3526851297875242,0.31222795039924445,-34.92722954639819,-33.14648603060586,ok,lag,4.0
+Operating margin ~ manganese | 2020-2025,2020-2025,operating_margin,ln_manganese,19,0.3433992786432636,0.30477570679874966,-37.40586851703912,-35.51699055870624,ok,subperiod,5.0

@@ -1,0 +1,183 @@
+date,actual_value,variable,label,unit,is_forecast
+2016-05-31,18.457611111111113,usd_mxn,USD/MXN,MXN per USD,False
+2016-06-30,18.65568181818182,usd_mxn,USD/MXN,MXN per USD,False
+2016-07-31,18.606976190476193,usd_mxn,USD/MXN,MXN per USD,False
+2016-08-31,18.472804347826088,usd_mxn,USD/MXN,MXN per USD,False
+2016-09-30,19.210636363636365,usd_mxn,USD/MXN,MXN per USD,False
+2016-10-31,18.88957142857143,usd_mxn,USD/MXN,MXN per USD,False
+2016-11-30,20.107977272727272,usd_mxn,USD/MXN,MXN per USD,False
+2016-12-31,20.517931818181818,usd_mxn,USD/MXN,MXN per USD,False
+2017-01-31,21.381659090909093,usd_mxn,USD/MXN,MXN per USD,False
+2017-02-28,20.30895,usd_mxn,USD/MXN,MXN per USD,False
+2017-03-31,19.28908695652174,usd_mxn,USD/MXN,MXN per USD,False
+2017-04-30,18.756149999999998,usd_mxn,USD/MXN,MXN per USD,False
+2017-05-31,18.75617391304348,usd_mxn,USD/MXN,MXN per USD,False
+2017-06-30,18.12584090909091,usd_mxn,USD/MXN,MXN per USD,False
+2017-07-31,17.833619047619045,usd_mxn,USD/MXN,MXN per USD,False
+2017-08-31,17.809108695652174,usd_mxn,USD/MXN,MXN per USD,False
+2017-09-30,17.83452380952381,usd_mxn,USD/MXN,MXN per USD,False
+2017-10-31,18.81490909090909,usd_mxn,USD/MXN,MXN per USD,False
+2017-11-30,18.924704545454546,usd_mxn,USD/MXN,MXN per USD,False
+2017-12-31,19.20411904761905,usd_mxn,USD/MXN,MXN per USD,False
+2018-01-31,18.93932608695652,usd_mxn,USD/MXN,MXN per USD,False
+2018-02-28,18.64495,usd_mxn,USD/MXN,MXN per USD,False
+2018-03-31,18.60018181818182,usd_mxn,USD/MXN,MXN per USD,False
+2018-04-30,18.384761904761906,usd_mxn,USD/MXN,MXN per USD,False
+2018-05-31,19.570521739130434,usd_mxn,USD/MXN,MXN per USD,False
+2018-06-30,20.293761904761904,usd_mxn,USD/MXN,MXN per USD,False
+2018-07-31,19.012522727272728,usd_mxn,USD/MXN,MXN per USD,False
+2018-08-31,18.85723913043478,usd_mxn,USD/MXN,MXN per USD,False
+2018-09-30,19.01475,usd_mxn,USD/MXN,MXN per USD,False
+2018-10-31,19.19058695652174,usd_mxn,USD/MXN,MXN per USD,False
+2018-11-30,20.259136363636365,usd_mxn,USD/MXN,MXN per USD,False
+2018-12-31,20.09714285714286,usd_mxn,USD/MXN,MXN per USD,False
+2019-01-31,19.186673913043478,usd_mxn,USD/MXN,MXN per USD,False
+2019-02-28,19.20045,usd_mxn,USD/MXN,MXN per USD,False
+2019-03-31,19.241380952380954,usd_mxn,USD/MXN,MXN per USD,False
+2019-04-30,18.9695,usd_mxn,USD/MXN,MXN per USD,False
+2019-05-31,19.10386956521739,usd_mxn,USD/MXN,MXN per USD,False
+2019-06-30,19.2722,usd_mxn,USD/MXN,MXN per USD,False
+2019-07-31,19.04626956521739,usd_mxn,USD/MXN,MXN per USD,False
+2019-08-31,19.691522727272726,usd_mxn,USD/MXN,MXN per USD,False
+2019-09-30,19.575038095238096,usd_mxn,USD/MXN,MXN per USD,False
+2019-10-31,19.31682608695652,usd_mxn,USD/MXN,MXN per USD,False
+2019-11-30,19.329247619047617,usd_mxn,USD/MXN,MXN per USD,False
+2019-12-31,19.096518181818183,usd_mxn,USD/MXN,MXN per USD,False
+2020-01-31,18.811804347826087,usd_mxn,USD/MXN,MXN per USD,False
+2020-02-29,18.837764999999997,usd_mxn,USD/MXN,MXN per USD,False
+2020-03-31,22.399490909090908,usd_mxn,USD/MXN,MXN per USD,False
+2020-04-30,24.168140909090912,usd_mxn,USD/MXN,MXN per USD,False
+2020-05-31,23.479209523809523,usd_mxn,USD/MXN,MXN per USD,False
+2020-06-30,22.299395454545454,usd_mxn,USD/MXN,MXN per USD,False
+2020-07-31,22.403108695652175,usd_mxn,USD/MXN,MXN per USD,False
+2020-08-31,22.208261904761905,usd_mxn,USD/MXN,MXN per USD,False
+2020-09-30,21.665509090909094,usd_mxn,USD/MXN,MXN per USD,False
+2020-10-31,21.26463181818182,usd_mxn,USD/MXN,MXN per USD,False
+2020-11-30,20.427633333333333,usd_mxn,USD/MXN,MXN per USD,False
+2020-12-31,19.956595652173913,usd_mxn,USD/MXN,MXN per USD,False
+2021-01-31,19.917085714285715,usd_mxn,USD/MXN,MXN per USD,False
+2021-02-28,20.307485,usd_mxn,USD/MXN,MXN per USD,False
+2021-03-31,20.75448260869565,usd_mxn,USD/MXN,MXN per USD,False
+2021-04-30,20.046363636363637,usd_mxn,USD/MXN,MXN per USD,False
+2021-05-31,19.96427142857143,usd_mxn,USD/MXN,MXN per USD,False
+2021-06-30,20.038563636363637,usd_mxn,USD/MXN,MXN per USD,False
+2021-07-31,19.968818181818182,usd_mxn,USD/MXN,MXN per USD,False
+2021-08-31,20.08292727272727,usd_mxn,USD/MXN,MXN per USD,False
+2021-09-30,20.038286363636363,usd_mxn,USD/MXN,MXN per USD,False
+2021-10-31,20.464219047619046,usd_mxn,USD/MXN,MXN per USD,False
+2021-11-30,20.884895454545457,usd_mxn,USD/MXN,MXN per USD,False
+2021-12-31,20.889891304347824,usd_mxn,USD/MXN,MXN per USD,False
+2022-01-31,20.503457142857144,usd_mxn,USD/MXN,MXN per USD,False
+2022-02-28,20.45301,usd_mxn,USD/MXN,MXN per USD,False
+2022-03-31,20.552891304347828,usd_mxn,USD/MXN,MXN per USD,False
+2022-04-30,20.095385714285715,usd_mxn,USD/MXN,MXN per USD,False
+2022-05-31,20.03540909090909,usd_mxn,USD/MXN,MXN per USD,False
+2022-06-30,20.02972727272727,usd_mxn,USD/MXN,MXN per USD,False
+2022-07-31,20.548157142857143,usd_mxn,USD/MXN,MXN per USD,False
+2022-08-31,20.11875652173913,usd_mxn,USD/MXN,MXN per USD,False
+2022-09-30,20.073936363636363,usd_mxn,USD/MXN,MXN per USD,False
+2022-10-31,19.977780952380954,usd_mxn,USD/MXN,MXN per USD,False
+2022-11-30,19.455136363636363,usd_mxn,USD/MXN,MXN per USD,False
+2022-12-31,19.605472727272726,usd_mxn,USD/MXN,MXN per USD,False
+2023-01-31,18.987709090909092,usd_mxn,USD/MXN,MXN per USD,False
+2023-02-28,18.63185,usd_mxn,USD/MXN,MXN per USD,False
+2023-03-31,18.39691304347826,usd_mxn,USD/MXN,MXN per USD,False
+2023-04-30,18.104750000000003,usd_mxn,USD/MXN,MXN per USD,False
+2023-05-31,17.754930434782608,usd_mxn,USD/MXN,MXN per USD,False
+2023-06-30,17.243836363636362,usd_mxn,USD/MXN,MXN per USD,False
+2023-07-31,16.90200476190476,usd_mxn,USD/MXN,MXN per USD,False
+2023-08-31,16.977391304347826,usd_mxn,USD/MXN,MXN per USD,False
+2023-09-30,17.308009523809524,usd_mxn,USD/MXN,MXN per USD,False
+2023-10-31,18.079945454545456,usd_mxn,USD/MXN,MXN per USD,False
+2023-11-30,17.37363636363636,usd_mxn,USD/MXN,MXN per USD,False
+2023-12-31,17.181390476190476,usd_mxn,USD/MXN,MXN per USD,False
+2024-01-31,17.078404347826087,usd_mxn,USD/MXN,MXN per USD,False
+2024-02-29,17.098200000000002,usd_mxn,USD/MXN,MXN per USD,False
+2024-03-31,16.772209523809526,usd_mxn,USD/MXN,MXN per USD,False
+2024-04-30,16.811395454545455,usd_mxn,USD/MXN,MXN per USD,False
+2024-05-31,16.806608695652177,usd_mxn,USD/MXN,MXN per USD,False
+2024-06-30,18.208385,usd_mxn,USD/MXN,MXN per USD,False
+2024-07-31,18.110652173913046,usd_mxn,USD/MXN,MXN per USD,False
+2024-08-31,19.14325909090909,usd_mxn,USD/MXN,MXN per USD,False
+2024-09-30,19.604819047619046,usd_mxn,USD/MXN,MXN per USD,False
+2024-10-31,19.707821739130434,usd_mxn,USD/MXN,MXN per USD,False
+2024-11-30,20.343514285714285,usd_mxn,USD/MXN,MXN per USD,False
+2024-12-31,20.26245909090909,usd_mxn,USD/MXN,MXN per USD,False
+2025-01-31,20.554017391304345,usd_mxn,USD/MXN,MXN per USD,False
+2025-02-28,20.46023,usd_mxn,USD/MXN,MXN per USD,False
+2025-03-31,20.22447619047619,usd_mxn,USD/MXN,MXN per USD,False
+2025-04-30,20.04635,usd_mxn,USD/MXN,MXN per USD,False
+2025-05-31,19.448427272727272,usd_mxn,USD/MXN,MXN per USD,False
+2025-06-30,19.02964761904762,usd_mxn,USD/MXN,MXN per USD,False
+2025-07-31,18.687117391304348,usd_mxn,USD/MXN,MXN per USD,False
+2025-08-31,18.7046,usd_mxn,USD/MXN,MXN per USD,False
+2025-09-30,18.489859090909093,usd_mxn,USD/MXN,MXN per USD,False
+2025-10-31,18.428730434782608,usd_mxn,USD/MXN,MXN per USD,False
+2025-11-30,18.415155,usd_mxn,USD/MXN,MXN per USD,False
+2025-12-31,18.065778260869564,usd_mxn,USD/MXN,MXN per USD,False
+2026-01-31,17.663736363636364,usd_mxn,USD/MXN,MXN per USD,False
+2026-02-28,17.22931,usd_mxn,USD/MXN,MXN per USD,False
+2026-03-31,17.77194090909091,usd_mxn,USD/MXN,MXN per USD,False
+2026-04-30,17.4606975,usd_mxn,USD/MXN,MXN per USD,False
+2026-05-31,17.291258333333335,usd_mxn,USD/MXN,MXN per USD,False
+2021-05-31,5.020735031022728,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2021-06-30,5.018958503795455,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2021-07-31,5.032461543727273,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2021-08-31,5.105286297238636,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2021-09-30,5.350101264568182,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2021-10-31,5.478020068904762,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2021-11-30,5.499094122704546,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2021-12-31,5.328136459543478,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-01-31,5.271168396166667,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-02-28,5.37578943715,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-03-31,5.423834928956522,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-04-30,5.209639183857142,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-05-31,5.001925690318182,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-06-30,5.002952485113636,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-07-31,4.962160632309524,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-08-31,4.668709635847826,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-09-30,4.525612073806818,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-10-31,4.366726131619048,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-11-30,4.357463778409091,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2022-12-31,4.472719631147727,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-01-31,4.722803698409091,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-02-28,4.9188422311125,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-03-31,4.753399629543479,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-04-30,4.6639917561,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-05-31,4.578720368695652,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-06-30,4.4303417545,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-07-31,4.281151393833333,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-08-31,4.2461403683695655,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-09-30,4.272497029011904,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-10-31,4.210479368284091,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-11-30,4.188448201090909,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2023-12-31,4.097655830357143,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-01-31,4.088987563304348,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-02-29,4.09130029775,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-03-31,4.19035879247619,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-04-30,4.373909778113636,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-05-31,5.513605048760869,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-06-30,5.63192175785,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-07-31,4.835211930967391,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-08-31,4.624335712306818,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-09-30,4.344532204392857,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-10-31,4.277148960902174,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-11-30,4.078376647309524,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2024-12-31,3.9918068053181814,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-01-31,3.978564312978261,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-02-28,4.138290019625,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-03-31,4.172715480476191,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-04-30,4.251065206284091,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-05-31,4.192541554575,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-06-30,4.100441505692857,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-07-31,4.1095078892847825,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-08-31,4.143405547630953,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-09-30,4.174445188029545,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-10-31,4.177739625315217,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-11-30,4.1961694053875,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2025-12-31,4.277323717632609,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2026-01-31,4.469731255125,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2026-02-28,4.569518566255001,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2026-03-31,4.981906846284091,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2026-04-30,5.164676402443181,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False
+2026-05-31,4.963971147363636,manganese_ore_usd_dmtu,Manganese price,USD/dmtu,False

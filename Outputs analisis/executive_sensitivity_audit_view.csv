@@ -1,0 +1,12 @@
+business_read,impact_label,business_impact_label,r2_label,signal_strength,sign_matches_economic_logic,recommended_use
+Precio del manganeso sube 1% -> cambio estimado en margen bruto,+44.14 bps margen,Favorable,R2 0.27,Media,True,Usable preliminarmente
+Precio del manganeso sube 1% -> cambio estimado en margen operativo,+60.17 bps margen,Favorable,R2 0.34,Media,True,Usable preliminarmente
+Precio del manganeso sube 1% -> cambio estimado en ventas,+1.96 % ventas,Favorable,R2 0.45,Media,True,Usable preliminarmente
+SOFR sube 100 bps -> cambio estimado en gasto financiero / ventas,+160.70 bps de ventas,Desfavorable,R2 0.25,Media,True,Usable preliminarmente
+Precio del oro sube 1% -> cambio estimado en ventas,+0.09 % ventas,Favorable,R2 0.01,Baja,True,"Direccional, baja confianza"
+SOFR sube 100 bps -> cambio estimado en margen operativo,-232.55 bps margen,Desfavorable,R2 0.24,Baja,True,"Direccional, baja confianza"
+TIIE sube 100 bps -> cambio estimado en gasto financiero / ventas,+118.79 bps de ventas,Desfavorable,R2 0.18,Baja,True,"Direccional, baja confianza"
+USD/MXN sube 1% -> cambio estimado en margen bruto,+22.05 bps margen,Favorable,R2 0.02,Baja,True,"Direccional, baja confianza"
+USD/MXN sube 1% -> cambio estimado en margen operativo,+30.83 bps margen,Favorable,R2 0.03,Baja,True,"Direccional, baja confianza"
+Inflacion anual MX sube 100 bps -> cambio estimado en margen bruto,n/a,Neutral,R2 n/a,n/a,False,No concluyente: signo contraintuitivo
+Precio del oro sube 1% -> cambio estimado en margen bruto,-8.54 bps margen,Desfavorable,R2 0.09,Baja,False,No concluyente: signo contraintuitivo

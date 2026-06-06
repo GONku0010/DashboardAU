@@ -1,0 +1,9 @@
+model_name,sample_name,y_col,x_cols,n_obs,r2,adj_r2,aic,bic,status
+Sales ~ manganese + USD/MXN,Available observations,ln_sales,"ln_manganese, ln_usd_mxn",19,0.6000739797829506,0.5500832272558195,-5.174206645321725,-2.340889707822404,ok
+Sales ~ manganese + USD/MXN + SOFR,Available observations,ln_sales,"ln_manganese, ln_usd_mxn, sofr_qavg",19,0.6291828747066017,0.5550194496479222,-4.610047346163988,-0.8322914294982269,ok
+Gross margin ~ manganese + USD/MXN,Available observations,gross_margin,"ln_manganese, ln_usd_mxn",19,0.34362844673337156,0.26158200257504305,-42.49429914418846,-39.66098220668914,ok
+Gross margin ~ manganese + USD/MXN + SOFR,Available observations,gross_margin,"ln_manganese, ln_usd_mxn, sofr_qavg",19,0.36912501936911235,0.2429500232429348,-41.247065973785084,-37.46931005711932,ok
+Operating margin ~ manganese + USD/MXN,Available observations,operating_margin,"ln_manganese, ln_usd_mxn",19,0.4335932378806091,0.3627923926156853,-38.213377346683565,-35.380060409184246,ok
+Operating margin ~ manganese + USD/MXN + SOFR,Available observations,operating_margin,"ln_manganese, ln_usd_mxn, sofr_qavg",19,0.48332904318518544,0.3799948518222226,-37.959596217430516,-34.181840300764755,ok
+Financial expense / sales ~ SOFR,Available observations,financial_expense_to_sales,sofr_qavg,30,0.2548926782901325,0.22828170251478008,-84.6570106231595,-81.85461585983518,ok
+Financial expense / sales ~ SOFR + USD/MXN,Available observations,financial_expense_to_sales,"sofr_qavg, ln_usd_mxn",30,0.2724385764944368,0.21854513771624684,-83.37190575037508,-79.16831360538862,ok
