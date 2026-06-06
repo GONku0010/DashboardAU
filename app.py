@@ -45,7 +45,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-ROOT_DIR = Path(__file__).resolve().parents[1]
+ROOT_DIR = Path(__file__).resolve().parent
 DATA_DIR = ROOT_DIR / "Bases de datos"
 DATABASE_FILE = DATA_DIR / "Mineria autlán historicos.xlsx"
 
