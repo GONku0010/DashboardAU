@@ -3,4 +3,4 @@
 unset STREAMLIT_SERVER_PORT
 unset STREAMLIT_SERVER_ADDRESS
 export PORT="${PORT:-8501}"
-exec python -m streamlit run app.py --server.address 0.0.0.0 --server.port "$PORT" --logger.level=error
+exec python3 -m streamlit run app.py --server.address 0.0.0.0 --server.port "$PORT" --logger.level=error
