@@ -499,54 +499,69 @@ def prepare_dashboard_scenarios(
 
 @st.cache_data(show_spinner=False)
 def load_all() -> dict[str, pd.DataFrame]:
-    financials = safe_read("autlan_financials_clean.csv")
-    analysis = safe_read("autlan_analysis_dataset.csv")
-    macro_q = safe_read("macro_variables_quarterly.csv")
-    proj_actuals = safe_read("usd_mxn_manganese_projection_actuals.csv")
-    proj_annual = safe_read("usd_mxn_manganese_projection_annual_summary.csv")
-    gold_annual = safe_read("gold_price_projection_annual_summary.csv")
-    prophet = safe_read("prophet_projections.csv")
-    scenarios = prepare_dashboard_scenarios(
-        safe_read("ml_scenario_table_2026_2027.csv"),
-        analysis,
-        macro_q,
-        proj_actuals,
-        proj_annual,
-        gold_annual,
-        prophet,
-    )
+    """Load all data with graceful fallback for missing files."""
+    try:
+        financials = safe_read("autlan_financials_clean.csv")
+        analysis = safe_read("autlan_analysis_dataset.csv")
+        macro_q = safe_read("macro_variables_quarterly.csv")
+        proj_actuals = safe_read("usd_mxn_manganese_projection_actuals.csv")
+        proj_annual = safe_read("usd_mxn_manganese_projection_annual_summary.csv")
+        gold_annual = safe_read("gold_price_projection_annual_summary.csv")
+        prophet = safe_read("prophet_projections.csv")
+        scenarios = prepare_dashboard_scenarios(
+            safe_read("ml_scenario_table_2026_2027.csv"),
+            analysis,
+            macro_q,
+            proj_actuals,
+            proj_annual,
+            gold_annual,
+            prophet,
+        )
 
-    return {
-        "financials":       financials,
-        "analysis":         analysis,
-        "macro_q":          macro_q,
-        "monthly_trends":   safe_read("monthly_macro_financial_trends_long.csv"),
-        "annual_trends":    safe_read("annual_macro_financial_trends_long.csv"),
-        "sensitivities":    safe_read("executive_sensitivity_summary.csv"),
-        "correlations":     safe_read("micro_macro_correlations.csv"),
-        "model_comparison": safe_read("model_comparison_all.csv"),
-        "multi_coef":       safe_read("multivariate_model_coefficients.csv"),
-        "multi_summary":    safe_read("multivariate_model_summary.csv"),
-        "monthly_season":   safe_read("monthly_macro_seasonality_summary.csv"),
-        "rate_regime":      safe_read("rate_regime_summary.csv"),
-        "rate_insights":    safe_read("rate_regime_key_insights.csv"),
-        "rolling_corr":     safe_read("rolling_correlations_by_rate_regime.csv"),
-        "proj_actuals":     safe_read("usd_mxn_manganese_projection_actuals.csv"),
-        "proj_forecast":    safe_read("usd_mxn_manganese_monthly_projection.csv"),
-        "prophet":          prophet,
-        "gold_actuals":     safe_read("gold_price_projection_actuals.csv"),
-        "gold_forecast":    safe_read("gold_price_monthly_projection.csv"),
-        "lstm_forecasts":   safe_read("lstm_price_forecasts.csv"),
-        "shap":             safe_read("xgboost_shap_values.csv"),
-        "kmeans_labels":    safe_read("kmeans_regime_labels.csv"),
-        "kmeans_profiles":  safe_read("kmeans_regime_profiles.csv"),
-        "proj_annual":      proj_annual,
-        "gold_annual":      gold_annual,
-        "scenarios":        scenarios,
-    }
+        return {
+            "financials":       financials,
+            "analysis":         analysis,
+            "macro_q":          macro_q,
+            "monthly_trends":   safe_read("monthly_macro_financial_trends_long.csv"),
+            "annual_trends":    safe_read("annual_macro_financial_trends_long.csv"),
+            "sensitivities":    safe_read("executive_sensitivity_summary.csv"),
+            "correlations":     safe_read("micro_macro_correlations.csv"),
+            "model_comparison": safe_read("model_comparison_all.csv"),
+            "multi_coef":       safe_read("multivariate_model_coefficients.csv"),
+            "multi_summary":    safe_read("multivariate_model_summary.csv"),
+            "monthly_season":   safe_read("monthly_macro_seasonality_summary.csv"),
+            "rate_regime":      safe_read("rate_regime_summary.csv"),
+            "rate_insights":    safe_read("rate_regime_key_insights.csv"),
+            "rolling_corr":     safe_read("rolling_correlations_by_rate_regime.csv"),
+            "proj_actuals":     safe_read("usd_mxn_manganese_projection_actuals.csv"),
+            "proj_forecast":    safe_read("usd_mxn_manganese_monthly_projection.csv"),
+            "prophet":          prophet,
+            "gold_actuals":     safe_read("gold_price_projection_actuals.csv"),
+            "gold_forecast":    safe_read("gold_price_monthly_projection.csv"),
+            "lstm_forecasts":   safe_read("lstm_price_forecasts.csv"),
+            "shap":             safe_read("xgboost_shap_values.csv"),
+            "kmeans_labels":    safe_read("kmeans_regime_labels.csv"),
+            "kmeans_profiles":  safe_read("kmeans_regime_profiles.csv"),
+            "proj_annual":      proj_annual,
+            "gold_annual":      gold_annual,
+            "scenarios":        scenarios,
+        }
+    except Exception as e:
+        st.error(f"Error loading data: {e}")
+        return {k: pd.DataFrame() for k in [
+            "financials", "analysis", "macro_q", "monthly_trends", "annual_trends",
+            "sensitivities", "correlations", "model_comparison", "multi_coef", "multi_summary",
+            "monthly_season", "rate_regime", "rate_insights", "rolling_corr", "proj_actuals",
+            "proj_forecast", "prophet", "gold_actuals", "gold_forecast", "lstm_forecasts",
+            "shap", "kmeans_labels", "kmeans_profiles", "proj_annual", "gold_annual", "scenarios"
+        ]}
 
 
-D = load_all()
+try:
+    D = load_all()
+except Exception as e:
+    st.error(f"Failed to initialize dashboard: {e}")
+    st.stop()
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────

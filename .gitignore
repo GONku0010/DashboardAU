@@ -1,0 +1,7 @@
+# Ignore local data and output folders
+Outputs*
+Bases de datos*
+__pycache__/
+.DS_Store
+*.pyc
+.streamlit/secrets.toml
