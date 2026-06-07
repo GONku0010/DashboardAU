@@ -618,12 +618,14 @@ def styled_table(df: pd.DataFrame, height: int = 260, row_colors=None) -> go.Fig
             fill_color=COLORS["navy"],
             font=dict(color=COLORS["thistle"], size=13, family="Arial"),
             align="left", height=36, line_color="rgba(136,128,152,0.25)",
+            columnwidth="auto",
         ),
         cells=dict(
             values=[df[c].tolist() for c in df.columns],
             fill_color=[fill] * len(df.columns),
             font=dict(size=13, family="Arial", color=COLORS["text"]),
             align="left", height=32, line_color="rgba(136,128,152,0.20)",
+            columnwidth="auto",
         ),
     ))
     fig.update_layout(
@@ -755,39 +757,18 @@ with tabs[0]:
         )
 
     with col_r:
-        st.markdown("#### Escenarios 2026–2027")
+        st.markdown("#### Escenario Base 2026–2027")
         if not D["scenarios"].empty:
             sc = D["scenarios"]
-            sc_disp = sc[sc["Año"] != "Ref. Actual"].copy()
-            _sc_show2 = sc_disp[["Año","Escenario","USD/MXN","SOFR (%)","TIIE (%)","Manganeso",
+            base_only = sc[sc["Escenario"] == "Base"].copy()
+            _sc_show2 = base_only[["Año","Escenario","USD/MXN","SOFR (%)","TIIE (%)","Manganeso",
                                   "Oro (USD/oz)","Mg Operativo (%)","Ventas (USD M)",
                                   "Util. Neta (USD M)"]].copy()
-            _sc_row_colors = [
-                "#1d3038" if s == "Base" else
-                "#272f19" if s == "Optimista" else "#2f1e14"
-                for s in _sc_show2["Escenario"]
-            ]
+            _sc_row_colors = ["#1d3038"] * len(_sc_show2)
             st.plotly_chart(styled_table(_sc_show2, height=260,
                             row_colors=_sc_row_colors), use_container_width=True)
-
-            opt27 = sc[(sc["Año"]=="2027") & (sc["Escenario"]=="Optimista")].iloc[0]
-            adv27 = sc[(sc["Año"]=="2027") & (sc["Escenario"]=="Adverso")].iloc[0]
-            _muted_c = COLORS["muted"]
-            _coral_c = COLORS["coral"]
-            _green_c = COLORS["green"]
-            _adv_op  = adv27['Mg Operativo (%)']
-            _opt_op  = opt27['Mg Operativo (%)']
-            _adv_v   = adv27['Ventas (USD M)']
-            _opt_v   = opt27['Ventas (USD M)']
-            st.markdown(
-                f"<div style='font-size:13px;color:{_muted_c};padding:4px 0;'>"
-                f"Rango Mg Op. 2027: "
-                f"<b style='color:{_coral_c};'>{_adv_op:.1f}%</b> Adverso "
-                f"&#8594; <b style='color:{_green_c};'>{_opt_op:.1f}%</b> Optimista &nbsp;|&nbsp; "
-                f"Ventas: USD {_adv_v:.0f}mm – {_opt_v:.0f}mm"
-                f"</div>", unsafe_allow_html=True)
-
-
+        else:
+            st.markdown("<div style='color:#999;font-size:13px;'>Datos de escenarios no disponibles.</div>", unsafe_allow_html=True)
 # ═══════════════════════════════════════════════════════════════════════════════
 # TAB 2 — CONTEXTO DE AUTLÁN
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1500,6 +1481,12 @@ with tabs[6]:
             _ref_fmt  = f"{ref_val:.1f}{'%' if is_pct else ' MUSD'}"
             _est_fmt  = f"{est_val:.1f}{'%' if is_pct else ' MUSD'}"
             _net_fmt  = f"{'+' if _net_change>=0 else ''}{_net_change:.1f} {_unit_lbl}"
+            spot_html = f"<div style='font-size:11px;color:{COLORS['muted']};font-style:italic;margin-bottom:4px;'>{_spot_note}</div>" if _spot_note else ""
+            sales_note = (f"<div style='margin-top:6px;font-size:11px;color:{COLORS['muted']};"
+                          f"background:rgba(136,128,152,0.08);border-radius:5px;padding:5px 8px;'>"
+                          f"Ventas se modela con manganeso y oro; oro pesa 25% de ventas. La tasa de referencia no afecta ingresos directamente"
+                          f" &mdash; su canal macro (demanda global) no es atribuible a nivel empresa."
+                          f"</div>" if wf_met == "Ventas (USD M)" else "")
 
             st.markdown(f"""
 <div style='background:{_sc_bg};border:1px solid {_sc_color}55;
@@ -1517,7 +1504,7 @@ with tabs[6]:
     Est. {wf_yr}: <b style='color:{_sc_color};'>{_est_fmt}</b>
     &nbsp;({_net_fmt})
   </div>
-  {f"<div style='font-size:11px;color:{COLORS['muted']};font-style:italic;margin-bottom:4px;'>{_spot_note}</div>" if _spot_note else ""}
+    {spot_html}
   <div style='font-size:12px;color:{COLORS["muted"]};font-weight:600;
               margin-top:8px;margin-bottom:4px;'>Contribuci&#243;n por driver:</div>
   <ul style='margin:0;padding-left:14px;font-size:13px;
@@ -1529,11 +1516,7 @@ with tabs[6]:
     Driver dominante: <b style='color:{_sc_color};'>{_dom}</b>
     &nbsp;({abs(_dom_val):.2f} {_unit_lbl} &mdash; {_dom_pct:.0f}% del cambio total)
   </div>
-  {f"""<div style='margin-top:6px;font-size:11px;color:{COLORS["muted"]};
-       background:rgba(136,128,152,0.08);border-radius:5px;padding:5px 8px;'>
-    Ventas se modela con manganeso y oro; oro pesa 25% de ventas. La tasa de referencia no afecta ingresos directamente
-    &mdash; su canal macro (demanda global) no es atribuible a nivel empresa.
-  </div>""" if wf_met == "Ventas (USD M)" else ""}
+    {sales_note}
 </div>""", unsafe_allow_html=True)
 
             # ── Compact scenario table ──────────────────────────────────────

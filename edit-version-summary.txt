@@ -1,0 +1,6 @@
+Current branch: edit-version
+
+Status: edit-version is identical to main; no file changes exist yet.
+
+To compare later, add changes on edit-version and run:
+  git diff main..edit-version
